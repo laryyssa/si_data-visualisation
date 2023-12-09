@@ -1,0 +1,989 @@
+,year_release,song_name,artist_name,popularity,danceability,energy,duration_ms,valence,interval
+7291,2018,Me Refez,['Priscilla Alcantara'],48,0.717,0.451,223189,0.337,2015-2019
+12971,2017,Terrain,['Booba'],0,0.913,0.772,149746,0.633,2015-2019
+13402,2019,La Boca - Remix,"['Mau y Ricky', 'Camilo', 'Lunay']",79,0.691,0.773,188467,0.85,2015-2019
+9017,2019,ハゼ馳せる果てるまで,['ZUTOMAYO'],53,0.759,0.961,244706,0.728,2015-2019
+6027,2017,Praying,['Kesha'],13,0.565,0.381,230269,0.325,2015-2019
+8230,2016,Badlands,"['Alyssa Reid', 'Likewise']",33,0.587,0.807,196813,0.221,2015-2019
+10904,2017,Stay Blessed,['Bryson Tiller'],48,0.526,0.485,246040,0.288,2015-2019
+322,2019,Não sou obrigada,['POCAH'],72,0.819,0.951,148340,0.963,2015-2019
+4366,2019,Batman (feat. Jamule),"['Kool Savas', 'Jamule']",49,0.804,0.747,145248,0.559,2015-2019
+8365,2017,LUST.,['Kendrick Lamar'],65,0.678,0.562,307880,0.566,2015-2019
+1916,2019,Muerte,"['Landy', 'Dadju']",62,0.757,0.722,195093,0.473,2015-2019
+11045,2019,Mary,['Bausa'],68,0.652,0.702,158282,0.82,2015-2019
+9924,2018,(Fuck A) Silver Lining,['Panic! At The Disco'],65,0.577,0.939,168613,0.714,2015-2019
+494,2018,Paul - Skit,['Paul Rosenberg'],62,0.636,0.335,35240,0.561,2015-2019
+7795,2017,Keene Probleme,"['Savas', 'Sido']",0,0.588,0.781,228731,0.507,2015-2019
+2168,2019,4 Phones,['Rich The Kid'],0,0.926,0.523,217338,0.205,2015-2019
+9516,2018,Singles You Up,['Jordan Davis'],73,0.491,0.907,182666,0.631,2015-2019
+11729,2019,Nur ein Grund (feat. Jah Khalib),"['Kontra K', 'Jah Khalib']",5,0.729,0.651,192900,0.361,2015-2019
+6163,2019,Machigaisagashi,['Masaki Suda'],32,0.555,0.653,221146,0.434,2015-2019
+6293,2017,Va te faire foutre,['Jul'],38,0.842,0.637,173520,0.862,2015-2019
+12601,2018,Areia,"['Sandy', 'Lucas Lima']",48,0.358,0.209,223579,0.106,2015-2019
+1157,2019,Ouh Hey,"['100 Blaze', 'RK']",41,0.865,0.545,207093,0.166,2015-2019
+10,2017,Sharp Edges,['Linkin Park'],63,0.652,0.714,178200,0.624,2015-2019
+9980,2018,Buzina,['Pabllo Vittar'],58,0.766,0.888,137422,0.69,2015-2019
+3121,2018,Viens dans mon 93,"['Dinos', 'Hornet La Frappe', 'Sofiane']",24,0.567,0.716,203226,0.419,2015-2019
+476,2019,Warnung,['Kontra K'],6,0.718,0.79,194307,0.605,2015-2019
+6750,2017,2 fois plus,['Hornet La Frappe'],35,0.829,0.305,197520,0.248,2015-2019
+8477,2018,On est prêt,['Niro'],44,0.815,0.589,189333,0.323,2015-2019
+2718,2019,All The Lies,"['Alok', 'Felix Jaehn', 'The Vamps']",69,0.611,0.835,179456,0.672,2015-2019
+6401,2017,CCNDNA,"['Bushido', 'Fler']",0,0.796,0.587,187226,0.215,2015-2019
+8914,2018,Sombre mélodie,['La Fouine'],35,0.81,0.728,230613,0.595,2015-2019
+8617,2018,RAINBOW,"['J SOUL BROTHERS III', 'Yellow Claw']",48,0.491,0.84,210640,0.293,2015-2019
+6961,2018,Rhumance,['Vald'],40,0.52,0.775,185060,0.651,2015-2019
+3644,2019,Goddamn (feat. A Boogie wit da Hoodie),"['Tyga', 'A Boogie Wit da Hoodie']",68,0.951,0.573,211039,0.42,2015-2019
+7656,2019,Malade,"['Naps', 'AM La Scampia']",46,0.804,0.836,216040,0.678,2015-2019
+3940,2018,Only Thing We Know,"['Alle Farben', 'Younotus', 'Kelvin Jones']",57,0.862,0.703,173386,0.591,2015-2019
+3264,2017,Sober II (Melodrama),['Lorde'],59,0.524,0.312,178639,0.101,2015-2019
+10123,2017,Relationship (feat. Future),"['Young Thug', 'Future']",82,0.842,0.597,215306,0.298,2015-2019
+5331,2018,Goodbyes,['Jorja Smith'],1,0.492,0.185,230929,0.353,2015-2019
+13211,2017,wokeuplikethis*,"['Playboi Carti', 'Lil Uzi Vert']",76,0.785,0.62,235535,0.478,2015-2019
+757,2017,Chambea,['Bad Bunny'],7,0.854,0.868,191999,0.631,2015-2019
+2295,2018,Karma (feat. Diamond Deuklo),"['Gringe', 'Diamond Deuklo']",37,0.525,0.774,228573,0.374,2015-2019
+9199,2019,Cinema,"['RAF Camora', 'Gallo Nero']",52,0.76,0.651,222367,0.262,2015-2019
+2078,2017,Conor McGregor,"['Azad', 'CALO']",48,0.414,0.685,224760,0.2,2015-2019
+7756,2018,Adan y Eva,['Paulo Londra'],77,0.767,0.709,258638,0.72,2015-2019
+8593,2019,Daye,['Fero47'],54,0.627,0.711,183693,0.49,2015-2019
+5769,2017,Legendary,['Welshly Arms'],6,0.529,0.63,230696,0.427,2015-2019
+12558,2019,恋をしたから,['Aimyon'],52,0.399,0.184,269253,0.364,2015-2019
+5758,2016,Oh My (feat. Jenna McDougall),"['Illy', 'Jenna McDougall']",41,0.699,0.709,210921,0.525,2015-2019
+3298,2017,Bravo,['MHD'],34,0.823,0.779,221360,0.866,2015-2019
+12901,2017,Déstabilisé,['Djadja & Dinaz'],0,0.763,0.519,256226,0.332,2015-2019
+4854,2019,Paredão,"['MC Kevinho', 'Dadá Boladão', 'MC JottaPê']",76,0.744,0.794,133333,0.717,2015-2019
+6889,2017,The Other Side,"['Hugh Jackman', 'Zac Efron']",74,0.638,0.795,214373,0.31,2015-2019
+1807,2017,WASTED LOVE,['Hiroomi Tosaka'],31,0.613,0.907,207435,0.652,2015-2019
+10850,2018,Victoria's Secret,['Cro'],50,0.572,0.567,250527,0.473,2015-2019
+7317,2019,Intermission,['Catfish and the Bottlemen'],47,0.483,0.136,107786,0.0886,2015-2019
+4389,2019,Draft Day,['Drake'],58,0.673,0.81,266325,0.564,2015-2019
+5514,2019,Property Picking,['Fredo'],45,0.855,0.504,193333,0.429,2015-2019
+11795,2019,L'hymne de nos campagnes 2019,"['Tryo', 'Bigflo & Oli', 'Claudio Capéo', 'Gauvain Sers', 'Boulevard des Airs', 'L.E.J', 'Vianney', 'Zaz']",59,0.816,0.688,186025,0.802,2015-2019
+3639,2018,Reborn To Rebel,['Ski Mask The Slump God'],57,0.792,0.673,151600,0.743,2015-2019
+6194,2018,Ewigkeit,['Majoe'],56,0.545,0.613,183506,0.494,2015-2019
+3630,2015,Broken Arrows,['Avicii'],9,0.634,0.674,232760,0.298,2015-2019
+815,2018,UFF,"['Veysel', 'Gzuz']",59,0.815,0.828,167626,0.311,2015-2019
+11595,2019,Walking (feat. Swae Lee & Major Lazer),"['88rising', 'Joji', 'Jackson Wang', 'Major Lazer', 'Swae Lee']",67,0.701,0.663,167080,0.334,2015-2019
+876,2016,"Mia & Sebastian’s Theme - From ""La La Land"" Soundtrack",['Justin Hurwitz'],0,0.429,0.188,96893,0.184,2015-2019
+13778,2018,Chasing Fire - Robin Schulz Remix,"['Lauv', 'Robin Schulz']",55,0.607,0.717,217678,0.376,2015-2019
+2522,2019,Unsainted,['Slipknot'],13,0.427,0.944,260276,0.248,2015-2019
+8293,2019,kOMm zU hYPnOTizE,['Dardan'],52,0.806,0.727,188000,0.713,2015-2019
+5368,2018,Who Mad Again (feat. Bamby),"['Jahyanai King', 'Bamby']",25,0.942,0.663,202352,0.648,2015-2019
+8094,2018,Plug Walk,['Rich The Kid'],6,0.876,0.519,175229,0.158,2015-2019
+11227,2017,911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),"['Tyler, The Creator', 'Frank Ocean', 'Steve Lacy']",73,0.48,0.61,255653,0.297,2015-2019
+4519,2019,SHUM SHUM,"['GENT', 'Noizy']",43,0.726,0.713,138103,0.592,2015-2019
+12051,2018,Setz Dich (feat. AK Ausser Kontrolle & Gzuz),"['Kontra K', 'AK Ausserkontrolle', 'Gzuz']",2,0.517,0.738,265853,0.711,2015-2019
+5910,2017,J.S.B. HAPPINESS,['J SOUL BROTHERS III'],0,0.505,0.946,324533,0.238,2015-2019
+2996,2018,100,"['Bonez MC', 'RAF Camora', 'Trettmann', 'KitschKrieg']",58,0.703,0.464,218632,0.726,2015-2019
+1881,2019,"Take Me Back To London (Remix) [feat. Stormzy, Jaykae & Aitch]","['Ed Sheeran', 'Jaykae', 'Aitch', 'Stormzy']",62,0.851,0.667,232150,0.596,2015-2019
+4034,2019,V2V,['PLK'],45,0.637,0.771,204960,0.498,2015-2019
+10003,2018,Cheetah Tongue,['The Wombats'],48,0.525,0.968,219481,0.591,2015-2019
+13747,2018,This Feeling,"['The Chainsmokers', 'Kelsea Ballerini']",80,0.575,0.571,197946,0.449,2015-2019
+4942,2019,Highspeed,"['Data Luv', 'Ufo361']",46,0.756,0.846,161564,0.227,2015-2019
+2470,2017,New Year’s Day,['Taylor Swift'],63,0.661,0.151,235466,0.23,2015-2019
+6549,2018,CLOSE (feat. Travis Scott) - From SR3MM,"['Rae Sremmurd', 'Swae Lee', 'Slim Jxmmi', 'Travis Scott']",66,0.691,0.736,193510,0.0395,2015-2019
+10955,2017,Mamacita,['Ninho'],44,0.779,0.724,187026,0.559,2015-2019
+9164,2017,Lass uns gehen (feat. KC Rebell),"['Majoe', 'KC Rebell']",40,0.728,0.681,183391,0.445,2015-2019
+13052,2017,Rx (Medicate),['Theory of a Deadman'],71,0.639,0.71,233173,0.378,2015-2019
+13731,2019,Don't Forget to Breathe (feat. Yebba) [Interlude],"['Stormzy', 'Yebba']",60,0.388,0.215,141360,0.283,2015-2019
+11034,2017,Mademoiselle,['Capital Bra'],47,0.834,0.657,169693,0.482,2015-2019
+1216,2019,Screwface Capital,['Dave'],65,0.914,0.56,253093,0.427,2015-2019
+13056,2017,Magnum,['Niro'],0,0.884,0.578,154080,0.208,2015-2019
+13833,2019,Elle est bonne sa mère,"['Vegedream', 'Ninho']",61,0.783,0.732,197925,0.46,2015-2019
+12060,2017,Letzte Liebe,['Prinz Pi'],53,0.59,0.723,214506,0.352,2015-2019
+782,2018,Thru These Tears,['LANY'],6,0.711,0.517,204515,0.294,2015-2019
+4680,2017,Never Be the Same,['Camila Cabello'],66,0.643,0.709,227087,0.264,2015-2019
+6733,2019,Mágica - Ao Vivo,"['Matheus & Kauan', 'Gusttavo Lima']",73,0.568,0.698,161597,0.534,2015-2019
+8359,2017,1-800-273-8255,"['Logic', 'Alessia Cara', 'Khalid']",81,0.62,0.574,250173,0.352,2015-2019
+3915,2017,Woman,"['Kesha', 'The Dap-Kings Horns']",3,0.743,0.765,196360,0.338,2015-2019
+13554,2019,Fashion Week (feat. AJ Tracey & MoStack),"['Steel Banglez', 'AJ Tracey', 'MoStack']",70,0.694,0.757,201998,0.703,2015-2019
+1349,2017,Pineapple Skies,['Miguel'],63,0.654,0.587,281360,0.288,2015-2019
+11163,2019,Temptation,['Future'],52,0.66,0.55,167672,0.299,2015-2019
+683,2019,Just Might (with PARTYNEXTDOOR),"['Summer Walker', 'PARTYNEXTDOOR']",66,0.69,0.377,205733,0.18,2015-2019
+306,2017,"Like A Riddle (feat. Hearts & Colors, Adam Trigger)","['Felix Jaehn', 'Hearts & Colors', 'Adam Trigger']",5,0.811,0.655,179565,0.509,2015-2019
+13693,2018,Solteiro Nunca Está Só,"['MC Kekel', 'Dani Russo', 'DJ RD']",39,0.839,0.545,147692,0.545,2015-2019
+13878,2017,First Time,"['Kygo', 'Ellie Goulding']",70,0.633,0.592,193511,0.679,2015-2019
+8204,2018,点描の唄,"['Mrs. GREEN APPLE', 'Sonoko Inoue']",70,0.502,0.632,307066,0.308,2015-2019
+2267,2017,Baron,['Bausa'],60,0.663,0.593,250012,0.123,2015-2019
+7530,2016,Amnésie,['Damso'],0,0.574,0.551,213653,0.596,2015-2019
+4928,2018,KOODA,['6ix9ine'],0,0.889,0.649,142582,0.169,2015-2019
+9096,2017,Baby,['Bakermat'],65,0.708,0.922,160053,0.637,2015-2019
+330,2017,Love$ick (feat. A$AP Rocky),"['Mura Masa', 'A$AP Rocky']",7,0.672,0.764,192160,0.763,2015-2019
+10227,2017,Uh Huh,['Julia Michaels'],0,0.763,0.673,177840,0.554,2015-2019
+9429,2019,Roller,['Apache 207'],77,0.941,0.758,157093,0.683,2015-2019
+9658,2017,Mended,['Vera Blue'],3,0.379,0.537,305120,0.0762,2015-2019
+50,2018,Jonestown (Interlude),['Post Malone'],62,0.38,0.454,112013,0.288,2015-2019
+104,2019,Oud Interlude,['Shindy'],44,0.597,0.484,190437,0.612,2015-2019
+12137,2018,Nur wegen dir,['AnnenMayKantereit'],58,0.677,0.654,181100,0.716,2015-2019
+6819,2018,Better Now,['Post Malone'],86,0.68,0.578,231266,0.341,2015-2019
+11666,2017,"That's My N**** (with Meek Mill, YG & Snoop Dogg)","['Meek Mill', 'YG', 'Snoop Dogg']",73,0.723,0.732,199746,0.503,2015-2019
+1899,2018,Privilege,['The Weeknd'],13,0.391,0.595,170573,0.379,2015-2019
+5891,2019,i apologise if you feel something,['Bring Me The Horizon'],56,0.211,0.361,139563,0.0537,2015-2019
+13099,2018,Szenen im Hotel (feat. reezy),"['Bausa', 'reezy']",42,0.641,0.514,177251,0.0794,2015-2019
+5112,2015,Bang,['Anitta'],57,0.896,0.847,190280,0.805,2015-2019
+3696,2017,New,['Daya'],2,0.717,0.743,230879,0.321,2015-2019
+1811,2018,P*Tain de m*Rde,['Naza'],57,0.775,0.802,197160,0.804,2015-2019
+13352,2019,Heavy Hearted,['The Jungle Giants'],66,0.642,0.887,256581,0.246,2015-2019
+8856,2019,Little Square UBitchU (feat. Anitta),"['Snoop Dogg', 'Anitta']",56,0.897,0.751,134928,0.772,2015-2019
+9590,2018,Bad Boy,['Marwa Loud'],2,0.796,0.496,187844,0.716,2015-2019
+12830,2019,Nicht die Musik,['KUMMER'],53,0.649,0.714,118871,0.274,2015-2019
+8161,2018,Chabba macht Parra,['Olexesh'],33,0.865,0.582,229206,0.19,2015-2019
+68,2017,Es Rollt,"['Maxwell', 'Tory Lanez', 'Gzuz']",41,0.405,0.653,224967,0.208,2015-2019
+1617,2017,Mister T,['Ufo361'],44,0.671,0.719,266400,0.515,2015-2019
+13397,2016,Be Alright,['Ariana Grande'],70,0.813,0.456,179293,0.587,2015-2019
+9852,2017,Transportin',['Kodak Black'],71,0.804,0.66,169344,0.257,2015-2019
+8972,2017,Body Like A Back Road,['Sam Hunt'],79,0.732,0.458,165386,0.661,2015-2019
+11639,2019,I'm Scared (feat. 21 Savage & Doe Boy),"['Young Thug', '21 Savage', 'Doe Boy']",56,0.909,0.414,200733,0.138,2015-2019
+6309,2018,Final Fantasy,['Drake'],2,0.461,0.449,219960,0.104,2015-2019
+11077,2017,• TEMPTED,['Jazz Cartier'],44,0.834,0.477,221893,0.33,2015-2019
+12480,2019,EFH,['Shindy'],55,0.656,0.657,180661,0.264,2015-2019
+1726,2018,Como é Que Faz (feat. Jerry Smith),"['Rob Nunes', 'Jerry Smith']",48,0.771,0.719,160651,0.904,2015-2019
+7973,2019,Ayy Macarena,['Tyga'],85,0.816,0.63,131606,0.715,2015-2019
+6374,2017,Laisse pas traîner ton fils (feat. Sofiane),"['Ninho', 'Sofiane']",53,0.646,0.735,211000,0.37,2015-2019
+8229,2019,Loka 4,['T2R'],58,0.888,0.579,204878,0.608,2015-2019
+9899,2019,A Whole New World,"['Mena Massoud', 'Naomi Scott']",69,0.395,0.375,175593,0.131,2015-2019
+7923,2017,Running Back (feat. Lil Wayne),"['Wale', 'Lil Wayne']",57,0.587,0.671,215360,0.1,2015-2019
+3286,2019,Something Real (with London On Da Track & Chris Brown),"['Summer Walker', 'London On Da Track', 'Chris Brown']",71,0.685,0.667,183137,0.643,2015-2019
+5728,2019,Coincide,['Catfish and the Bottlemen'],49,0.503,0.858,186000,0.442,2015-2019
+4544,2017,Dalé,"['Alonzo', 'Lartiste']",0,0.785,0.927,182666,0.55,2015-2019
+7328,2019,Instagram,"['Dimitri Vegas & Like Mike', 'David Guetta', 'Daddy Yankee', 'Afro Bros', 'Natti Natasha', 'Dimitri Vegas', 'Like Mike']",80,0.765,0.906,184558,0.95,2015-2019
+7197,2019,Augen,['Mois'],44,0.597,0.67,169786,0.348,2015-2019
+3750,2017,1ne Million,['Maxwell'],34,0.454,0.802,160200,0.673,2015-2019
+9908,2015,Santa Baby,['Kylie Minogue'],38,0.675,0.384,201653,0.416,2015-2019
+3214,2019,Boy With Luv - Japanese ver.,['BTS'],53,0.677,0.843,231226,0.807,2015-2019
+7389,2017,Get It Together,"['Drake', 'Black Coffee', 'Jorja Smith']",70,0.781,0.721,250337,0.849,2015-2019
+8931,2019,Hollywood,['Lewis Capaldi'],69,0.723,0.669,191843,0.732,2015-2019
+2694,2019,December,['Bugzy Malone'],59,0.577,0.656,262915,0.118,2015-2019
+424,2017,Old Friends - Jonas Blue Remix,"['Jasmine Thompson', 'Jonas Blue']",48,0.646,0.744,174733,0.358,2015-2019
+6572,2018,Astronauts,"['Future', 'Juice WRLD']",64,0.732,0.586,169920,0.73,2015-2019
+9670,2018,Amigo,"['Alonzo', 'Dj Spike Miller']",41,0.663,0.848,172988,0.747,2015-2019
+9964,2019,Steige ein,['BRADO'],40,0.694,0.875,149599,0.684,2015-2019
+7723,2018,GOTTI,['6ix9ine'],71,0.728,0.584,166851,0.365,2015-2019
+7271,2017,Please Don't Lie,['Hugo Helmig'],7,0.707,0.594,212112,0.591,2015-2019
+4950,2017,Take It Back,['Logic'],58,0.837,0.84,400013,0.692,2015-2019
+8043,2019,"West Coast (feat. Blueface, ALLBLACK & YG)","['G-Eazy', 'Blueface', 'ALLBLACK', 'YG']",66,0.882,0.775,256966,0.805,2015-2019
+4864,2019,Rockstar,['RK'],60,0.744,0.758,222690,0.448,2015-2019
+13607,2017,Nightlife,['RIN'],0,0.837,0.558,248506,0.746,2015-2019
+4054,2017,Collision,['Still Fresh'],46,0.775,0.568,221666,0.478,2015-2019
+10062,2017,Saved,['Khalid'],75,0.739,0.448,206533,0.553,2015-2019
+5861,2016,Humain,['PNL'],53,0.673,0.572,278893,0.257,2015-2019
+6127,2018,Chanel (feat. Swae Lee & Pharrell) - From Jxmtro,"['Rae Sremmurd', 'Swae Lee', 'Slim Jxmmi', 'Pharrell Williams']",1,0.98,0.713,264001,0.67,2015-2019
+10134,2018,Random,['Eddy de Pretto'],0,0.621,0.596,250600,0.476,2015-2019
+9463,2019,Pior Que Possa Imaginar,['Luísa Sonza'],59,0.655,0.816,136406,0.644,2015-2019
+1603,2016,Malandramente,"['Dennis DJ', 'MC Nandinho', 'Nego Bam']",57,0.91,0.804,171692,0.712,2015-2019
+6987,2018,Let Me Live (feat. Anne-Marie & Mr Eazi),"['Rudimental', 'Major Lazer', 'Anne-Marie', 'Mr Eazi']",61,0.662,0.844,205760,0.763,2015-2019
+8266,2019,COMO UN BEBÉ,"['J Balvin', 'Bad Bunny', 'Mr Eazi']",74,0.825,0.807,218826,0.816,2015-2019
+6599,2017,Carry You Home,"['Tiësto', 'Stargate', 'Aloe Blacc']",44,0.518,0.724,192731,0.334,2015-2019
+7110,2018,Champion Sound,"['Marteria', 'Casper']",42,0.482,0.905,235746,0.344,2015-2019
+3969,2017,Ascension (feat. Vince Staples),"['Gorillaz', 'Vince Staples']",61,0.676,0.905,155973,0.519,2015-2019
+5895,2017,Dozo,['Kaaris'],0,0.605,0.57,182813,0.275,2015-2019
+1109,2018,マリーゴールド,['Aimyon'],55,0.545,0.745,306626,0.413,2015-2019
+9266,2018,Parece Namoro - Ao Vivo | Acústico,['Marília Mendonça'],57,0.925,0.59,155199,0.681,2015-2019
+9696,2018,Champion,['Luciano'],48,0.872,0.458,144253,0.358,2015-2019
+11482,2019,Change,['ONE OK ROCK'],51,0.493,0.729,176946,0.34,2015-2019
+10263,2019,Enemies (feat. DaBaby),"['Post Malone', 'DaBaby']",83,0.542,0.674,196760,0.667,2015-2019
+5190,2019,ME! (feat. Brendon Urie of Panic! At The Disco),"['Taylor Swift', 'Brendon Urie', 'Panic! At The Disco']",23,0.614,0.839,193040,0.657,2015-2019
+9085,2018,Old Town Road,['Lil Nas X'],10,0.909,0.517,113005,0.471,2015-2019
+6216,2019,Evapora,"['IZA', 'Ciara', 'Major Lazer']",67,0.69,0.707,127075,0.681,2015-2019
+3816,2018,Echographie,['Hornet La Frappe'],34,0.852,0.498,194693,0.454,2015-2019
+1454,2016,Tiimmy Turner,['Desiigner'],72,0.603,0.725,239853,0.304,2015-2019
+11018,2017,7 Min Freestyle,['21 Savage'],0,0.844,0.454,431586,0.274,2015-2019
+11172,2019,Kuroi Hitsuji,['Keyakizaka46'],40,0.508,0.943,307600,0.399,2015-2019
+11154,2019,Des flingues et des roses,['Niska'],52,0.853,0.784,176000,0.575,2015-2019
+4777,2019,Golf7 r,['Kaaris'],41,0.862,0.821,236853,0.824,2015-2019
+12793,2017,Perfect Strangers,"['Jonas Blue', 'JP Cooper']",47,0.739,0.833,195313,0.699,2015-2019
+8742,2018,Allô Allô,['Sugar MMFK'],35,0.788,0.674,200161,0.574,2015-2019
+9050,2018,Outro: Tear,['BTS'],63,0.711,0.903,284980,0.467,2015-2019
+4293,2019,LADRÃO,['Djonga'],57,0.923,0.673,262400,0.339,2015-2019
+4295,2018,JAPAN,['Famous Dex'],57,0.733,0.678,144149,0.841,2015-2019
+11590,2017,Feu d'artifice,"['Alonzo', 'MHD']",0,0.86,0.755,175013,0.514,2015-2019
+1793,2017,"No Flag (feat. Nicki Minaj, 21 Savage & Offset)","['London On Da Track', 'Nicki Minaj', '21 Savage', 'Offset']",55,0.809,0.58,212383,0.146,2015-2019
+5478,2018,Head On (feat. Kevin Gates),"['YoungBoy Never Broke Again', 'Kevin Gates']",0,0.897,0.628,117995,0.636,2015-2019
+3574,2019,Bebe e Vem Me Procurar,['Raí Saia Rodada'],70,0.571,0.941,154291,0.969,2015-2019
+5406,2019,Deux frères,['PNL'],65,0.794,0.659,247459,0.308,2015-2019
+5723,2017,Wo Wo Wo,['Krept & Konan'],0,0.816,0.369,211648,0.272,2015-2019
+12034,2019,Arc-en-ciel,['Booba'],64,0.583,0.418,169846,0.357,2015-2019
+4388,2017,Down,"['Fifth Harmony', 'Gucci Mane']",2,0.53,0.512,165200,0.401,2015-2019
+8104,2019,Block,['Larry'],64,0.715,0.743,157253,0.711,2015-2019
+8696,2019,Rodéo,"['Eva', 'Kidaki']",46,0.805,0.735,168072,0.525,2015-2019
+6224,2018,Drück Drück (feat. LX),"['Gzuz', 'LX']",1,0.441,0.876,219363,0.408,2015-2019
+10776,2019,Kafa Leyla,"['BRADO', 'MERO']",62,0.765,0.858,154132,0.871,2015-2019
+5142,2018,Bart Simpson,"['Columbine', 'Lujipeka']",47,0.359,0.723,185173,0.44,2015-2019
+2733,2019,Lichter der Stadt,"['Bushido', 'Animus']",52,0.545,0.896,153200,0.541,2015-2019
+789,2017,Somethin Tells Me,['Bryson Tiller'],58,0.735,0.588,194266,0.434,2015-2019
+192,2018,Dark Vader,['J Hus'],57,0.866,0.845,169360,0.789,2015-2019
+956,2017,Si Tu Novio Te Deja Sola,"['J Balvin', 'Bad Bunny']",2,0.716,0.461,243560,0.535,2015-2019
+4130,2018,Tokarev,['SCH'],47,0.689,0.709,171506,0.46,2015-2019
+4206,2018,High Five,['Sigrid'],6,0.651,0.628,169369,0.513,2015-2019
+8028,2017,Tabasco,"['KC Rebell', 'Summer Cem']",47,0.644,0.678,203625,0.421,2015-2019
+3239,2019,Ca Va?,['Vickeblanka'],45,0.737,0.889,250479,0.387,2015-2019
+9250,2018,PGP,['Ninho'],47,0.409,0.705,221320,0.305,2015-2019
+3507,2017,113,"['Booba', 'Damso']",1,0.734,0.844,153840,0.258,2015-2019
+1188,2017,But A Dream,['G-Eazy'],58,0.583,0.685,206426,0.44,2015-2019
+3216,2019,Alphagenetik,['Kollegah'],55,0.461,0.816,221960,0.654,2015-2019
+3833,2015,Idfc,['blackbear'],81,0.63,0.5,245172,0.315,2015-2019
+4393,2017,GPS (feat. French Montana),"['Maluma', 'French Montana']",64,0.841,0.629,216306,0.676,2015-2019
+3602,2018,Chavinho - Ao Vivo,['Raffa Torres'],0,0.519,0.284,161002,0.543,2015-2019
+38,2016,You Were Right,['RÜFÜS DU SOL'],48,0.708,0.793,239417,0.735,2015-2019
+5245,2018,TGV,['Veysel'],42,0.871,0.846,142786,0.892,2015-2019
+1227,2019,Rollerblades (feat. KC Rebell),"['Summer Cem', 'KC Rebell']",63,0.85,0.675,157333,0.701,2015-2019
+5994,2018,Zu dir,['LEA'],2,0.844,0.591,183826,0.327,2015-2019
+13677,2019,Du weißt,"['Trettmann', 'KitschKrieg', 'Gzuz']",62,0.899,0.599,179524,0.807,2015-2019
+13790,2018,Zona de Risco (feat. Maiara & Maraisa) - Ao Vivo,"['Fernando & Sorocaba', 'Maiara & Maraisa']",62,0.652,0.918,182850,0.803,2015-2019
+12019,2019,インフェルノ,['Mrs. GREEN APPLE'],68,0.529,0.931,212546,0.695,2015-2019
+13754,2018,Kikadinha,['Jerry Smith'],57,0.756,0.662,146086,0.848,2015-2019
+8620,2016,Can I Be Him,['James Arthur'],79,0.696,0.543,246880,0.479,2015-2019
+403,2018,Não Atende Não,['Wesley Safadão'],60,0.374,0.953,157689,0.575,2015-2019
+9894,2018,Magisch,"['Olexesh', 'Edin']",62,0.584,0.655,247708,0.539,2015-2019
+660,2019,Benzin,['Kontra K'],56,0.683,0.782,204379,0.429,2015-2019
+7875,2017,Wolves,"['Selena Gomez', 'Marshmello']",81,0.724,0.804,197993,0.306,2015-2019
+6543,2017,Scars,['Sam Smith'],54,0.567,0.399,183535,0.431,2015-2019
+8264,2015,Não Me Deixe Sozinho,['Nego do Borel'],47,0.782,0.919,151680,0.691,2015-2019
+6699,2019,Tussin (feat. Young Thug),"['NAV', 'Young Thug']",0,0.662,0.503,179519,0.315,2015-2019
+4741,2019,Que Calor (with J Balvin & El Alfa),"['Major Lazer', 'J Balvin', 'El Alfa', 'Diplo']",51,0.795,0.885,169997,0.46,2015-2019
+4840,2018,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii","['XXXTENTACION', 'Rio Santana', 'Judah', 'Andrez Babii']",68,0.767,0.561,192229,0.542,2015-2019
+3227,2017,Love U Better (feat. Lil Wayne & The-Dream),"['Ty Dolla $ign', 'Lil Wayne', 'The-Dream']",2,0.482,0.477,182833,0.379,2015-2019
+2115,2016,Ordinary Life,['The Weeknd'],47,0.544,0.586,221920,0.361,2015-2019
+620,2017,La zone,"['Jul', 'Hors Ligne']",35,0.824,0.747,192280,0.685,2015-2019
+6567,2018,So lang die Strasse lebt,"['Azet', 'Zuna']",41,0.5,0.741,188653,0.345,2015-2019
+2664,2019,Walk Me Home,['P!nk'],70,0.652,0.453,177390,0.432,2015-2019
+2545,2019,Tap (feat. Meek Mill),"['NAV', 'Meek Mill']",5,0.901,0.676,148278,0.452,2015-2019
+10402,2017,Killed Before,['Young Thug'],57,0.697,0.675,220706,0.292,2015-2019
+11306,2018,Fé (feat. Gabi Andrade),"['EME', 'Almy', 'Gabi Andrade']",22,0.546,0.92,184615,0.22,2015-2019
+3,2011,Fantastic Boy,['BIGBANG'],0,0.725,0.836,232586,0.544,2010-2014
+21,1957,Blue Christmas,['Elvis Presley'],53,0.465,0.27,129173,0.58,1955-1959
+55,2006,Story,['AI'],60,0.586,0.632,288506,0.391,2005-2009
+64,2013,"Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)","['A$AP Ferg', 'A$AP Rocky', 'French Montana', 'Trinidad James', 'ScHoolboy Q']",70,0.841,0.733,283693,0.284,2010-2014
+118,2004,HERO,['Mr.Children'],46,0.552,0.564,341093,0.658,2000-2004
+146,2006,春の歌,['SPITZ'],54,0.276,0.863,283240,0.614,2005-2009
+181,2003,Drei Haselnüsse für Aschenbrödel: Einleitung,"['Karel Svoboda', 'František Pavlíček', 'Václav Vorlíček', 'Film Symphony Orchestra', 'Stepan Konicek']",3,0.456,0.537,277893,0.289,2000-2004
+211,2013,Sweater Weather,['The Neighbourhood'],82,0.612,0.807,240400,0.398,2010-2014
+274,1993,Christmas Through Your Eyes,['Gloria Estefan'],24,0.53,0.421,300733,0.4,1990-1994
+297,1987,Santa Baby,['Madonna'],0,0.61,0.333,154933,0.595,1985-1989
+315,1973,ひこうき雲,['Yumi Arai'],55,0.403,0.432,206164,0.246,1970-1974
+319,2012,We Are Never Ever Getting Back Together,['Taylor Swift'],75,0.628,0.676,193146,0.75,2010-2014
+328,2006,I Bet You Look Good On The Dancefloor,['Arctic Monkeys'],72,0.535,0.948,173680,0.778,2005-2009
+345,2010,The Man With The Bag,['Kay Starr'],23,0.674,0.319,160640,0.747,2010-2014
+348,2013,Wrapped in Red,['Kelly Clarkson'],37,0.54,0.734,216906,0.36,2010-2014
+349,2011,くだらないの中に,['Gen Hoshino'],48,0.532,0.392,260152,0.354,2010-2014
+361,2013,やさしくなりたい,['Kazuyoshi Saito'],56,0.496,0.915,316106,0.446,2010-2014
+391,2014,One Last Time,['Ariana Grande'],48,0.631,0.601,197253,0.104,2010-2014
+415,1965,Rudolph The Red-Nosed Reindeer,['Burl Ives'],44,0.67,0.275,130026,0.806,1965-1969
+467,2004,くるみ,['Mr.Children'],46,0.568,0.685,330306,0.286,2000-2004
+504,2007,Paper Planes,['M.I.A.'],70,0.447,0.848,203760,0.485,2005-2009
+518,1988,Fairytale of New York (feat. Kirsty MacColl),"['The Pogues', 'Kirsty MacColl']",58,0.319,0.651,272200,0.474,1985-1989
+531,2007,Stronger,['Kanye West'],15,0.625,0.726,311866,0.483,2005-2009
+555,1993,(It Must've Been Ol') Santa Claus,"['Harry Connick, Jr.']",6,0.58,0.496,276400,0.762,1990-1994
+569,2005,サクラ咲ケ,['ARASHI'],53,0.429,0.924,262144,0.518,2005-2009
+580,2014,Problem,"['Ariana Grande', 'Iggy Azalea']",6,0.654,0.797,193893,0.61,2010-2014
+586,2003,Little Christmas Tree - With Spoken Intro,['Michael Jackson'],19,0.493,0.431,217026,0.335,2000-2004
+599,1992,Jingle Bell Rock,['Bobby Helms'],57,0.754,0.424,130973,0.806,1990-1994
+628,1983,Jingle Bell Rock - Daryl's Version,['Daryl Hall & John Oates'],50,0.666,0.841,126360,0.84,1980-1984
+699,2002,youthful days,['Mr.Children'],31,0.486,0.927,314640,0.55,2000-2004
+787,2012,Santa Claus Is Coming To Town,['Rod Stewart'],34,0.749,0.466,166653,0.648,2010-2014
+788,2005,"Lose Yourself - From ""8 Mile"" Soundtrack",['Eminem'],78,0.692,0.744,326466,0.0612,2005-2009
+804,1994,innocent world,['Mr.Children'],49,0.612,0.664,344906,0.662,1990-1994
+812,1994,All I Want for Christmas Is You,['Mariah Carey'],68,0.335,0.625,241106,0.346,1990-1994
+816,2014,My Type,['Saint Motel'],25,0.595,0.896,204811,0.567,2010-2014
+841,1996,Bella ciao,"['Interpreti dello spettacolo ""Bella Ciao""']",58,0.596,0.389,96400,0.938,1995-1999
+861,1994,Black Hole Sun,['Soundgarden'],50,0.361,0.728,318000,0.155,1990-1994
+866,2007,CHE. R. RY,['YUI'],43,0.599,0.911,209973,0.644,2005-2009
+875,2005,さくら,['Ketsumeishi'],59,0.713,0.838,316040,0.848,2005-2009
+918,2000,One Step Closer,['Linkin Park'],75,0.492,0.969,157333,0.538,2000-2004
+923,1983,I'm Still Standing,['Elton John'],81,0.504,0.904,183440,0.772,1980-1984
+927,2014,Do They Know It's Christmas? - 2014,['Band Aid 30'],3,0.626,0.541,228916,0.255,2010-2014
+940,2004,Let Me Love You,['Mario'],61,0.681,0.586,249093,0.604,2000-2004
+955,2009,The Happiest Christmas Tree - 2009 Digital Remaster,['Nat King Cole'],2,0.494,0.644,105346,0.866,2005-2009
+962,2014,Mess Is Mine,['Vance Joy'],66,0.595,0.723,223640,0.272,2010-2014
+984,1999,8 Days of Christmas,"[""Destiny's Child""]",32,0.687,0.843,210133,0.638,1995-1999
+997,2014,Shut Up and Dance,['WALK THE MOON'],72,0.578,0.866,199080,0.619,2010-2014
+1023,2013,My Number,['Foals'],70,0.639,0.744,240533,0.825,2010-2014
+1037,1981,守ってあげたい,['Yumi Matsutoya'],48,0.729,0.476,267179,0.562,1980-1984
+1044,2005,Feel Good Inc.,['Gorillaz'],81,0.818,0.705,222640,0.772,2005-2009
+1054,2014,あなたを想う風,['HY'],47,0.369,0.723,273013,0.266,2010-2014
+1077,2014,Have Yourself A Merry Little Christmas,['Sam Smith'],53,0.438,0.178,170964,0.344,2010-2014
+1079,2006,Chelsea Dagger,['The Fratellis'],68,0.511,0.815,215306,0.586,2005-2009
+1087,2011,"You Need Me, I Don't Need You",['Ed Sheeran'],64,0.749,0.837,220413,0.927,2010-2014
+1110,1993,Mary Jane's Last Dance,['Tom Petty and the Heartbreakers'],6,0.451,0.669,272133,0.523,1990-1994
+1111,1967,What Christmas Means To Me,['Stevie Wonder'],40,0.478,0.542,147226,0.821,1965-1969
+1124,2001,Feliz Navidad,['José Feliciano'],52,0.485,0.857,182360,0.963,2000-2004
+1134,1998,Vindaloo,['Fat Les'],43,0.647,0.969,221000,0.342,1995-1999
+1153,2012,What Makes You Beautiful,['One Direction'],80,0.726,0.787,199986,0.888,2010-2014
+1169,2012,Radioactive,['Imagine Dragons'],15,0.473,0.777,186813,0.21,2010-2014
+1178,2013,The Motion,['Drake'],53,0.676,0.717,241000,0.558,2010-2014
+1180,2013,September,"['Earth, Wind & Fire']",16,0.693,0.911,216520,0.982,2010-2014
+1237,1977,The Chain - 2004 Remaster,['Fleetwood Mac'],79,0.545,0.67,270213,0.481,1975-1979
+1244,2013,Blue Christmas,"['Elvis Presley', 'Martina McBride']",12,0.461,0.608,148546,0.668,2010-2014
+1246,2009,It's Only Christmas,['Ronan Keating'],31,0.444,0.526,204120,0.246,2005-2009
+1257,2008,truth,['ARASHI'],3,0.628,0.964,291160,0.797,2005-2009
+1260,1992,DIAMONDS (ダイアモンド),['Princess Princess'],54,0.676,0.949,299066,0.856,1990-1994
+1262,2008,O Christmas Tree,['Tony Bennett'],39,0.445,0.0982,207253,0.085,2005-2009
+1267,2013,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",['Ed Sheeran'],75,0.581,0.0549,300840,0.234,2010-2014
+1290,2011,All I Want for Christmas Is You,['Michael Bublé'],33,0.503,0.465,171826,0.143,2010-2014
+1291,2005,Lonely This Christmas,['Mud'],30,0.551,0.325,213160,0.496,2005-2009
+1313,2013,Counting Stars,['OneRepublic'],81,0.664,0.705,257266,0.477,2010-2014
+1321,2014,The Days,['Avicii'],68,0.59,0.724,278480,0.526,2010-2014
+1322,2009,I Gotta Feeling,['Black Eyed Peas'],18,0.743,0.766,289133,0.61,2005-2009
+1344,2005,"Dias De Luta, Dias De Gloria",['Charlie Brown Jr.'],66,0.346,0.433,145466,0.768,2005-2009
+1355,2011,Lego House,['Ed Sheeran'],60,0.592,0.637,185093,0.565,2010-2014
+1396,2013,All of Me,['John Legend'],86,0.422,0.264,269560,0.331,2010-2014
+1400,2014,Break Free,"['Ariana Grande', 'Zedd']",10,0.687,0.702,214840,0.284,2010-2014
+1426,2010,Shake Up Christmas,['Train'],48,0.458,0.831,232213,0.572,2010-2014
+1429,1989,New Orleans Is Sinking,['The Tragically Hip'],55,0.596,0.608,257440,0.668,1985-1989
+1448,2011,Christmas Without You,['OneRepublic'],30,0.262,0.676,197146,0.364,2010-2014
+1453,2012,Sleigh Ride,['fun.'],0,0.555,0.738,217000,0.352,2010-2014
+1476,2013,Wake Me Up,['Avicii'],85,0.532,0.783,247426,0.643,2010-2014
+1489,2004,世界でいちばん熱い夏,['Princess Princess'],47,0.687,0.831,225266,0.639,2000-2004
+1500,2014,さよならの前に,['AAA'],57,0.545,0.853,320373,0.525,2010-2014
+1531,1984,Radio Ga Ga - 2011 Mix,['Queen'],76,0.744,0.502,348226,0.66,1980-1984
+1564,1992,もう恋なんてしない,['Noriyuki Makihara'],55,0.731,0.809,272706,0.887,1990-1994
+1572,1980,Crazy Little Thing Called Love - Remastered 2011,['Queen'],75,0.599,0.761,163373,0.712,1980-1984
+1573,2011,Shooting Stars,['Bag Raiders'],74,0.636,0.72,235813,0.425,2010-2014
+1643,1988,Le pénitencier,['Johnny Hallyday'],11,0.357,0.362,242706,0.306,1985-1989
+1686,2010,Wherever you are,['ONE OK ROCK'],62,0.379,0.69,295600,0.288,2010-2014
+1696,2003,Tři Oříšky Pro Popelku (Motiv I.) - Úvod,"['Stepan Konicek', 'Filmový symfonický orchestr']",39,0.44,0.536,277893,0.292,2000-2004
+1703,2005,光榮之橋,['Yuzu'],30,0.552,0.39,326600,0.194,2005-2009
+1748,1991,Mistletoe and Wine,['Cliff Richard'],42,0.498,0.432,245333,0.364,1990-1994
+1819,1975,A Spaceman Came Travelling,['Chris de Burgh'],1,0.339,0.218,311573,0.0691,1975-1979
+1840,2006,楓,['SPITZ'],49,0.419,0.726,324626,0.367,2005-2009
+1842,2008,Truth,['ARASHI'],55,0.611,0.97,288909,0.722,2005-2009
+1915,1992,Christmas All Over Again,['Tom Petty and the Heartbreakers'],37,0.521,0.831,254200,0.693,1990-1994
+1933,2005,大切なもの,['Road Of Major'],53,0.394,0.937,188133,0.755,2005-2009
+1954,2012,Red Red Wine,['UB40'],50,0.858,0.396,183853,0.831,2010-2014
+1975,1994,I Wish You A Merry Christmas,['Bing Crosby'],1,0.421,0.172,115333,0.633,1990-1994
+1999,1987,Faith - Remastered,['George Michael'],75,0.887,0.48,193200,0.607,1985-1989
+2019,1977,We Will Rock You - Remastered,['Queen'],80,0.692,0.497,122066,0.475,1975-1979
+2038,2007,Happiness,['ARASHI'],3,0.591,0.915,258250,0.712,2005-2009
+2051,2011,Kiss Me,['Ed Sheeran'],73,0.589,0.227,280853,0.182,2010-2014
+2057,1970,Mele Kalikimaka - Single Version,"['Bing Crosby', 'The Andrews Sisters']",0,0.463,0.285,173933,0.525,1970-1974
+2065,1991,Rockin' Around The Christmas Tree - Single Version,['Brenda Lee'],2,0.703,0.407,125826,0.849,1990-1994
+2095,2014,Break Free,"['Ariana Grande', 'Zedd']",45,0.686,0.702,214840,0.29,2010-2014
+2100,1977,Go Your Own Way - 2004 Remaster,['Fleetwood Mac'],75,0.583,0.947,223613,0.803,1975-1979
+2122,1980,The Boys Light Up - Remastered,['Australian Crawl'],60,0.619,0.935,281466,0.704,1980-1984
+2131,2008,Beautiful World,['Hikaru Utada'],0,0.684,0.827,317946,0.346,2005-2009
+2134,2013,Counting Stars,['OneRepublic'],14,0.662,0.71,257266,0.465,2010-2014
+2139,2002,A Day in Our Life,['ARASHI'],48,0.704,0.977,285633,0.679,2000-2004
+2156,1986,Tempo Perdido,['Legião Urbana'],69,0.293,0.662,302200,0.221,1985-1989
+2158,2014,高嶺の花子さん,['back number'],70,0.54,0.923,294813,0.343,2010-2014
+2160,2005,"Lose Yourself - From ""8 Mile"" Soundtrack",['Eminem'],19,0.701,0.728,326466,0.0591,2005-2009
+2177,2011,迷宮ラブソング,['ARASHI'],50,0.56,0.875,276408,0.593,2010-2014
+2185,2014,366日,['HY'],47,0.381,0.427,353466,0.179,2010-2014
+2206,2002,君が好き,['Mr.Children'],45,0.483,0.51,270000,0.314,2000-2004
+2212,1985,Quelque chose de Tennessee,['Johnny Hallyday'],0,0.517,0.354,251666,0.329,1985-1989
+2215,2007,Leave Out All The Rest,['Linkin Park'],14,0.514,0.637,209306,0.18,2005-2009
+2216,2008,One Love,['ARASHI'],59,0.552,0.938,285459,0.699,2005-2009
+2222,1993,Linger,['The Cranberries'],15,0.438,0.428,274760,0.209,1990-1994
+2286,2012,CASTLE OF GLASS,['Linkin Park'],72,0.615,0.911,205400,0.685,2010-2014
+2293,2013,Do I Wanna Know?,['Arctic Monkeys'],63,0.548,0.532,272394,0.405,2010-2014
+2326,2005,Gold Digger,"['Kanye West', 'Jamie Foxx']",63,0.631,0.696,207626,0.621,2005-2009
+2347,2014,ひまわりの約束,['Motohiro Hata'],52,0.611,0.12,324880,0.368,2010-2014
+2350,2012,It's Christmas Time Again,['Backstreet Boys'],0,0.526,0.701,202626,0.761,2010-2014
+2358,2011,Set Fire to the Rain,['Adele'],75,0.61,0.683,241693,0.466,2010-2014
+2371,1996,Wannabe,['Spice Girls'],80,0.768,0.864,173026,0.891,1995-1999
+2457,2000,Christmas Time,['Backstreet Boys'],10,0.549,0.712,256200,0.445,2000-2004
+2498,2004,チキンライス,['浜田雅功と槇原敬之'],40,0.641,0.434,296693,0.474,2000-2004
+2502,2008,Flavor Of Life,['Hikaru Utada'],0,0.588,0.867,286986,0.528,2005-2009
+2547,2007,Christmas Time,['Bryan Adams'],39,0.505,0.443,247933,0.38,2005-2009
+2597,2010,Monster,['ARASHI'],53,0.656,0.939,267514,0.744,2010-2014
+2620,2014,Break Free,"['Ariana Grande', 'Zedd']",6,0.68,0.692,214840,0.289,2010-2014
+2632,2014,Blank Space,['Taylor Swift'],78,0.76,0.703,231826,0.57,2010-2014
+2668,1992,Christmas All Over Again,['Tom Petty and the Heartbreakers'],1,0.528,0.816,254200,0.666,1990-1994
+2683,2009,マイガール,['ARASHI'],50,0.622,0.839,285189,0.915,2005-2009
+2690,1970,I Saw Mommy Kissing Santa Claus,['The Jackson 5'],38,0.571,0.585,179666,0.732,1970-1974
+2724,2011,Shooting Stars,['Bag Raiders'],11,0.649,0.716,235813,0.503,2010-2014
+2737,1982,Here We Come a-Caroling / We Wish You a Merry Christmas,['Perry Como'],23,0.571,0.166,94733,0.707,1980-1984
+2741,1998,真夏の果実,['サザンオールスターズ'],50,0.473,0.528,280000,0.446,1995-1999
+2748,2003,Somewhere I Belong,['Linkin Park'],64,0.451,0.951,213933,0.442,2000-2004
+2755,2013,Theorie und Praxis (feat. Joka),"['Bushido', 'Joka']",57,0.514,0.912,194160,0.542,2010-2014
+2758,2012,Demons,['Imagine Dragons'],18,0.327,0.71,175200,0.416,2010-2014
+2765,2014,Sun Models,"['ODESZA', 'Madelyn Grant']",4,0.683,0.481,160000,0.493,2010-2014
+2776,1987,Everywhere - 2017 Remaster,['Fleetwood Mac'],48,0.73,0.487,226653,0.731,1985-1989
+2835,2005,All Alone on Christmas,['Darlene Love'],29,0.61,0.852,222480,0.784,2005-2009
+2845,2014,Bang Bang,"['Jessie J', 'Ariana Grande', 'Nicki Minaj']",7,0.703,0.747,199320,0.7,2010-2014
+2885,2008,Human,['The Killers'],56,0.552,0.839,245373,0.576,2005-2009
+2901,2013,Chocolate,['The 1975'],68,0.614,0.938,224673,0.607,2010-2014
+2951,1942,White Christmas,"['Bing Crosby', 'Ken Darby Singers', 'John Scott Trotter & His Orchestra']",53,0.317,0.158,177480,0.247,1940-1944
+2979,1999,Californication,['Red Hot Chili Peppers'],81,0.592,0.767,329733,0.328,1995-1999
+3009,2005,Hips Don't Lie (feat. Wyclef Jean),"['Shakira', 'Wyclef Jean']",83,0.778,0.824,218093,0.756,2005-2009
+3048,2008,愛唄,['GReeeeN'],28,0.5,0.8,236253,0.408,2005-2009
+3052,2014,One Last Time,['Ariana Grande'],9,0.624,0.618,197253,0.122,2010-2014
+3127,1963,The Little Drummer Boy,['Johnny Cash'],36,0.686,0.497,152266,0.559,1960-1964
+3154,2011,Have Yourself a Merry Little Christmas,['Michael Bublé'],33,0.275,0.276,230306,0.195,2010-2014
+3186,2014,家族になろうよ,['Masaharu Fukuyama'],57,0.495,0.422,307813,0.219,2010-2014
+3190,2005,Best of You,['Foo Fighters'],76,0.366,0.94,255626,0.369,2005-2009
+3199,2008,キセキ,['GReeeeN'],61,0.641,0.618,271160,0.338,2005-2009
+3201,1995,WOW WAR TONIGHT〜時には起こせよムーヴメント〜 - TWO MILLION MIX,['H Jungle With t'],52,0.569,0.879,356200,0.737,1995-1999
+3225,2007,Bleed It Out,['Linkin Park'],24,0.542,0.932,164760,0.698,2005-2009
+3231,2010,若者のすべて,['Fujifabric'],29,0.596,0.651,296680,0.225,2010-2014
+3251,2006,三日月,['ayaka'],58,0.496,0.476,279013,0.405,2005-2009
+3253,2009,Yasashisa De Afureru Youni,['JUJU'],35,0.378,0.736,287666,0.372,2005-2009
+3267,1971,Tiny Dancer,['Elton John'],80,0.414,0.428,377093,0.282,1970-1974
+3285,1992,Christmas All Over Again,['Tom Petty and the Heartbreakers'],1,0.529,0.793,254200,0.739,1990-1994
+3296,1944,Have Yourself A Merry Little Christmas,['Judy Garland'],45,0.156,0.184,162333,0.107,1940-1944
+3315,1989,淋しい熱帯魚[Bonus Track] (Remastered 2013),['Wink'],49,0.636,0.954,269013,0.958,1985-1989
+3324,1984,I Want To Break Free - Single Remix,['Queen'],76,0.795,0.435,258013,0.596,1980-1984
+3358,1980,Wonderful Christmastime - Remastered 2011 / Edited Version,['Paul McCartney'],6,0.774,0.511,227653,0.771,1980-1984
+3361,2008,Flavor Of Life,['Hikaru Utada'],0,0.582,0.865,286986,0.52,2005-2009
+3365,2013,Wake Me Up - Radio Edit,['Avicii'],24,0.532,0.783,247426,0.643,2010-2014
+3427,1998,Iris,['The Goo Goo Dolls'],78,0.315,0.715,289533,0.497,1995-1999
+3468,1974,Step Into Christmas,['Elton John'],36,0.54,0.928,272333,0.796,1970-1974
+3485,2002,Ragatanga (Asereje) - Versão Editada,['Rouge'],53,0.626,0.955,211461,0.968,2000-2004
+3525,1999,A・RA・SHI,['ARASHI'],3,0.439,0.953,267069,0.475,1995-1999
+3529,2014,Let It Go,['James Bay'],75,0.546,0.311,260533,0.246,2010-2014
+3562,2014,Cosby Sweater,['Hilltop Hoods'],66,0.794,0.81,217720,0.802,2010-2014
+3568,1986,Run Rudolph Run - Single Version,['Chuck Berry'],53,0.681,0.715,165733,0.957,1985-1989
+3594,1999,All Star,['Smash Mouth'],80,0.731,0.867,200373,0.776,1995-1999
+3603,2011,君に届け,['flumpool'],60,0.449,0.872,322586,0.523,2010-2014
+3612,2013,Clock Strikes,['ONE OK ROCK'],58,0.488,0.921,235346,0.231,2010-2014
+3703,2012,Quero Ser Feliz Também - Ao Vivo,['Natiruts'],69,0.755,0.55,214613,0.757,2010-2014
+3713,2008,Viva La Vida,['Coldplay'],80,0.485,0.619,242373,0.416,2005-2009
+3715,2009,ヒーロー,['FUNKY MONKEY BABYS'],54,0.622,0.818,293653,0.572,2005-2009
+3756,1990,希望の轍,['稲村オーケストラ'],50,0.69,0.826,256507,0.711,1990-1994
+3765,1991,Under the Bridge,['Red Hot Chili Peppers'],81,0.559,0.345,264306,0.458,1990-1994
+3777,2007,箒星,['Mr.Children'],45,0.522,0.868,310866,0.784,2005-2009
+3781,2004,Mr. Brightside,['The Killers'],78,0.356,0.924,222586,0.232,2000-2004
+3796,2010,Three Lions,"['Baddiel, Skinner & Lightning Seeds']",39,0.55,0.699,228360,0.648,2010-2014
+3801,1994,Christmas (Baby Please Come Home),['Mariah Carey'],51,0.566,0.782,153240,0.697,1990-1994
+3807,2000,CENTER OF UNIVERSE,['Mr.Children'],39,0.444,0.786,332760,0.409,2000-2004
+3822,1987,I Wanna Dance with Somebody (Who Loves Me),['Whitney Houston'],81,0.709,0.824,291293,0.867,1985-1989
+3823,1973,La musique que j'aime,['Johnny Hallyday'],14,0.396,0.637,306866,0.718,1970-1974
+3825,1969,Here Comes The Sun - Remastered 2009,['The Beatles'],84,0.557,0.54,185733,0.394,1965-1969
+3835,2014,AM11:00,['HY'],42,0.6,0.649,323200,0.27,2010-2014
+3839,2012,眠り姫,['SEKAI NO OWARI'],36,0.34,0.817,326640,0.396,2010-2014
+3848,2003,クリスマス・イブRap,['KICK THE CAN CREW'],35,0.723,0.796,357000,0.74,2000-2004
+3871,2011,Small Bump,['Ed Sheeran'],66,0.81,0.436,259413,0.446,2010-2014
+3885,2014,Jingle Bell Rock,['Garou'],0,0.677,0.783,123520,0.775,2010-2014
+3922,1974,Sweet Home Alabama,['Lynyrd Skynyrd'],82,0.596,0.605,283800,0.886,1970-1974
+3995,2001,Hark! The Herald Angels Sing/It Came Upon A Midnight Clear - Remastered,['Bing Crosby'],0,0.288,0.324,184626,0.264,2000-2004
+4001,2014,Magic in the Air (feat. Ahmed Chawki),"['Magic System', 'Chawki']",64,0.621,0.907,233693,0.884,2010-2014
+4003,2011,Silent Night,['Michael Bublé'],30,0.24,0.124,227520,0.113,2010-2014
+4022,2002,traveling,['Hikaru Utada'],0,0.677,0.964,313466,0.799,2000-2004
+4031,1985,Walking In the Air,['Aled Jones'],32,0.358,0.185,206733,0.0956,1985-1989
+4037,1990,Lonely This Christmas,['Mud'],28,0.551,0.325,213160,0.496,1990-1994
+4082,1959,"Baby, It's Cold Outside",['Dean Martin'],45,0.469,0.196,143733,0.537,1955-1959
+4086,1987,Sweet Child O' Mine,"[""Guns N' Roses""]",82,0.454,0.91,354520,0.63,1985-1989
+4100,2009,It's Only Christmas,['Ronan Keating'],1,0.444,0.526,204120,0.246,2005-2009
+4166,1992,"Poupée de cire, poupée de son",['France Gall'],38,0.533,0.579,150506,0.782,1990-1994
+4198,2011,Christmas (Baby Please Come Home),['Michael Bublé'],33,0.495,0.793,187920,0.672,2010-2014
+4235,2014,Somewhere Only We Know,['Lily Allen'],32,0.313,0.286,208504,0.287,2010-2014
+4289,1993,All I Want For Christmas (Is My Two Front Teeth) - Remastered,['Nat King Cole Trio'],25,0.752,0.0869,151893,0.502,1990-1994
+4298,2013,Addicted To You,['Avicii'],12,0.569,0.785,148386,0.303,2010-2014
+4305,2010,Three Lions '98,"['Baddiel, Skinner & Lightning Seeds']",35,0.47,0.87,241360,0.385,2010-2014
+4323,2000,Papercut,['Linkin Park'],73,0.524,0.939,184866,0.661,2000-2004
+4440,2003,言葉より大切なもの,['ARASHI'],49,0.434,0.929,241863,0.67,2000-2004
+4465,1973,Come and Get Your Love - Single Version,['Redbone'],78,0.731,0.804,205933,0.957,1970-1974
+4522,2014,Até Você Voltar,['Henrique & Juliano'],54,0.747,0.849,204080,0.779,2010-2014
+4580,2011,All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey,"['Justin Bieber', 'Mariah Carey']",45,0.576,0.911,240333,0.401,2010-2014
+4582,2007,Junge,['Die Ärzte'],61,0.563,0.792,187533,0.176,2005-2009
+4584,2011,Drunk,['Ed Sheeran'],66,0.733,0.652,200093,0.459,2010-2014
+4590,2000,Everything,['MISIA'],40,0.526,0.539,418666,0.286,2000-2004
+4598,2011,Rolling in the Deep,['Adele'],77,0.73,0.77,228093,0.507,2010-2014
+4621,1979,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",['Bee Gees'],13,0.703,0.826,285373,0.945,1975-1979
+4622,1976,Como Nossos Pais,['Elis Regina'],33,0.51,0.399,260493,0.573,1975-1979
+4660,1977,We Are The Champions - Remastered 2011,['Queen'],76,0.268,0.459,179200,0.175,1975-1979
+4663,1994,Santa Claus Is Comin' to Town,['Frank Sinatra'],42,0.646,0.204,154640,0.687,1990-1994
+4665,2013,Underneath the Tree,['Kelly Clarkson'],51,0.509,0.812,229640,0.689,2010-2014
+4697,1999,Sang pour sang,['Johnny Hallyday'],2,0.483,0.449,252853,0.222,1995-1999
+4700,1994,"Have Yourself A Merry Little Christmas - ""Meet Me In St. Louis"" Original Cast Recording",['Judy Garland'],1,0.273,0.161,162200,0.111,1990-1994
+4702,2007,Fluorescent Adolescent,['Arctic Monkeys'],67,0.646,0.813,173493,0.821,2005-2009
+4712,2006,Mardy Bum,['Arctic Monkeys'],72,0.634,0.599,175440,0.312,2005-2009
+4715,2011,アイデンティティ,['Sakanaction'],44,0.499,0.792,246759,0.699,2010-2014
+4787,1987,Everywhere - 2017 Remaster,['Fleetwood Mac'],78,0.73,0.487,226653,0.731,1985-1989
+4790,1988,Driving Home for Christmas,['Chris Rea'],44,0.603,0.705,239946,0.89,1985-1989
+4793,1987,Christmas (Baby Please Come Home),['U2'],1,0.297,0.812,139893,0.524,1985-1989
+4804,1997,シーソーゲーム~勇敢な恋の歌~,['Mr.Children'],56,0.594,0.851,269866,0.783,1995-1999
+4835,1997,浪漫飛行,['Kome Kome Club'],56,0.708,0.648,246840,0.969,1995-1999
+4837,1945,God Rest Ye Merry Gentlemen,['Bing Crosby'],39,0.466,0.213,137266,0.693,1945-1949
+4839,2003,The Nosebleed Section,['Hilltop Hoods'],61,0.846,0.828,219640,0.908,2000-2004
+4852,2000,Crawling,['Linkin Park'],74,0.58,0.702,208960,0.299,2000-2004
+4859,2001,Can You Keep A Secret?,['Hikaru Utada'],0,0.717,0.893,308466,0.688,2000-2004
+4885,1979,いとしのエリー,['サザンオールスターズ'],43,0.437,0.463,264886,0.379,1975-1979
+4890,1998,What Child Is This?/The Holly And The Ivy,['Bing Crosby'],5,0.34,0.181,200266,0.178,1995-1999
+4893,2007,Salamander,['ELLEGARDEN'],22,0.434,0.856,226920,0.186,2005-2009
+4925,2001,Drops of Jupiter,['Train'],79,0.468,0.64,259933,0.499,2000-2004
+4929,2014,Baby It's Cold Outside (duet with Michael Bublé),"['Idina Menzel', 'Michael Bublé']",47,0.553,0.476,166146,0.558,2010-2014
+4945,2008,Make You Feel My Love,['Adele'],20,0.325,0.18,212040,0.0997,2005-2009
+4949,1978,Sleigh Ride,['Carpenters'],44,0.47,0.232,159440,0.552,1975-1979
+4954,2013,Christmas Time (Don’t Let The Bells End),['The Darkness'],0,0.496,0.906,209413,0.405,2010-2014
+4958,2006,She Moves In Her Own Way,['The Kooks'],71,0.41,0.803,169306,0.814,2005-2009
+4977,1999,Vivre pour le meilleur,['Johnny Hallyday'],2,0.512,0.798,271893,0.25,1995-1999
+4981,2007,I Wish It Could Be Christmas Everyday,['Wizzard'],40,0.383,0.914,278946,0.528,2005-2009
+5039,2008,愛のうた,['Kumi Koda'],54,0.483,0.518,291026,0.275,2005-2009
+5047,2011,Someone Like You,['Adele'],79,0.559,0.33,285040,0.285,2010-2014
+5048,2011,The A Team,['Ed Sheeran'],76,0.642,0.289,258373,0.407,2010-2014
+5061,1975,Bohemian Rhapsody - 2011 Mix,['Queen'],76,0.392,0.402,354320,0.228,1975-1979
+5063,1993,真夏の夜の夢,['Yumi Matsutoya'],49,0.623,0.752,304173,0.857,1990-1994
+5077,2003,Numb,['Linkin Park'],82,0.496,0.863,185586,0.243,2000-2004
+5079,2011,Santa Baby,['Michael Bublé'],30,0.641,0.0964,231626,0.357,2010-2014
+5087,2013,Hey Brother,['Avicii'],19,0.545,0.78,255093,0.458,2010-2014
+5096,1994,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),"['Frank Sinatra', 'B. Swanson Quartet']",56,0.653,0.259,155453,0.835,1990-1994
+5104,1975,Don't Go Breaking My Heart,"['Elton John', 'Kiki Dee']",77,0.729,0.844,275440,0.777,1975-1979
+5126,1994,CROSS ROAD,['Mr.Children'],33,0.459,0.7,272706,0.708,1990-1994
+5133,2010,花,['ORANGE RANGE'],29,0.416,0.747,254986,0.432,2010-2014
+5137,2011,Give Me Love,['Ed Sheeran'],73,0.526,0.328,526386,0.11,2010-2014
+5147,2004,"Lose Yourself - From ""8 Mile"" Soundtrack",['Eminem'],77,0.686,0.735,322226,0.0596,2000-2004
+5168,2004,Numb / Encore,"['JAY-Z', 'Linkin Park']",76,0.687,0.793,205733,0.751,2000-2004
+5174,1957,O Little Town of Bethlehem,['Elvis Presley'],40,0.324,0.0406,155493,0.218,1955-1959
+5182,2000,Points of Authority,['Linkin Park'],67,0.512,0.97,200240,0.427,2000-2004
+5224,2000,In the End,['Linkin Park'],84,0.556,0.864,216880,0.4,2000-2004
+5234,2014,A.W.A,"['Lacrim', 'French Montana']",60,0.835,0.732,162733,0.28,2010-2014
+5262,1970,Santa Claus Is Coming To Town,['The Jackson 5'],16,0.682,0.577,143773,0.943,1970-1974
+5282,2003,明日への扉,['I WiSH'],52,0.5,0.613,292040,0.456,2000-2004
+5303,2006,空も飛べるはず,['SPITZ'],58,0.593,0.81,271400,0.67,2005-2009
+5310,1990,Freedom! '90,['George Michael'],12,0.673,0.813,390866,0.896,1990-1994
+5346,2006,Crazy,['Gnarls Barkley'],77,0.855,0.587,177466,0.64,2005-2009
+5364,2012,Santa Claus Is Coming To Town,['Rod Stewart'],2,0.746,0.458,166653,0.596,2010-2014
+5367,2006,Sobakasu,['JUDY AND MARY'],44,0.474,0.838,254360,0.572,2005-2009
+5387,1999,I Will Survive,['Gloria Gaynor'],6,0.772,0.634,197573,0.663,1995-1999
+5398,1965,A Holly Jolly Christmas - Single Version,['Burl Ives'],47,0.683,0.375,135533,0.888,1965-1969
+5409,2013,Kölsche Jung - Party Edit,['Brings'],56,0.599,0.992,241800,0.372,2010-2014
+5414,1970,God Rest Ye Merry Gentlemen - Single Version,['Bing Crosby'],0,0.474,0.257,137720,0.684,1970-1974
+5431,2003,In Da Club,['50 Cent'],78,0.899,0.713,193466,0.777,2000-2004
+5432,1984,Thank God It's Christmas - Non-Album Single,['Queen'],44,0.296,0.421,261626,0.335,1980-1984
+5444,2014,Stay With Me,['Sam Smith'],84,0.418,0.42,172723,0.184,2010-2014
+5503,2012,Same Love - feat. Mary Lambert,"['Macklemore & Ryan Lewis', 'Mary Lambert']",68,0.688,0.473,318525,0.299,2010-2014
+5578,1994,春よ、来い,['Yumi Matsutoya'],51,0.542,0.529,288567,0.184,1990-1994
+5601,1984,Wake Me up Before You Go-Go,['Wham!'],80,0.62,0.574,231333,0.9,1980-1984
+5634,2014,Bad Blood,['Taylor Swift'],58,0.646,0.794,211933,0.287,2010-2014
+5647,2012,Jingle Bell Rock (Glee Cast Version),['Glee Cast'],45,0.623,0.738,152946,0.874,2010-2014
+5667,1990,The Horses,['Daryl Braithwaite'],63,0.707,0.275,256106,0.195,1990-1994
+5717,2007,愛唄,['GReeeeN'],63,0.505,0.791,236253,0.425,2005-2009
+5752,1991,The Christmas Song (Merry Christmas To You),['Nat King Cole'],34,0.31,0.095,190973,0.188,1990-1994
+5753,2014,Winter Wonderland,"['Tony Bennett', 'Lady Gaga']",2,0.604,0.497,149306,0.72,2010-2014
+5766,1990,Joy To The World,['Nat King Cole'],15,0.559,0.381,86200,0.667,1990-1994
+5820,2013,Willst du,['Alligatoah'],66,0.733,0.751,218964,0.701,2010-2014
+5859,1958,Sleigh Ride,['Johnny Mathis'],32,0.605,0.664,178720,0.886,1955-1959
+5863,2014,Wildest Dreams,['Taylor Swift'],61,0.55,0.688,220440,0.465,2010-2014
+5870,1976,Hotel California - 2013 Remaster,['Eagles'],83,0.579,0.508,391376,0.609,1975-1979
+5897,2014,Bittersweet,['ARASHI'],51,0.695,0.919,288103,0.901,2010-2014
+5898,1982,Under Pressure - Remastered,"['Queen', 'David Bowie']",81,0.671,0.712,248440,0.462,1980-1984
+5903,1994,Half the World Away - Remastered,['Oasis'],56,0.339,0.459,267333,0.22,1990-1994
+5909,2010,Kanzen kankaku Dreamer,['ONE OK ROCK'],54,0.558,0.914,252200,0.711,2010-2014
+5917,2011,Santa Claus Is Coming to Town,['Michael Bublé'],33,0.594,0.389,171093,0.396,2010-2014
+5920,1996,Baby It's Cold Outside,"['Ella Fitzgerald', 'Louis Jordan']",1,0.768,0.0797,163706,0.607,1995-1999
+5926,1994,O Holy Night,['Mariah Carey'],47,0.362,0.505,266933,0.192,1990-1994
+5927,1978,Merry Christmas Darling - Remix,['Carpenters'],43,0.339,0.205,186973,0.166,1975-1979
+5932,2008,そばにいるね,"['Thelma Aoyama', 'SoulJa']",54,0.671,0.722,302906,0.79,2005-2009
+5972,1983,OH MY LITTLE GIRL,['Yutaka Ozaki'],54,0.557,0.393,275173,0.204,1980-1984
+6032,2014,The Nights,['Avicii'],81,0.527,0.835,176658,0.654,2010-2014
+6033,1976,Gabrielle,['Johnny Hallyday'],12,0.599,0.621,173733,0.963,1975-1979
+6065,1960,Sleigh Ride,['Ella Fitzgerald'],46,0.508,0.287,175986,0.644,1960-1964
+6070,2000,Last Resort,['Papa Roach'],16,0.581,0.887,199893,0.724,2000-2004
+6120,2007,Let's Dance to Joy Division,['The Wombats'],54,0.397,0.839,191293,0.764,2005-2009
+6151,2008,ギフト,['ET-KING'],51,0.632,0.731,255680,0.549,2005-2009
+6157,1989,I Won't Back Down,['Tom Petty'],74,0.765,0.476,178360,0.965,1985-1989
+6160,1999,ニシエヒガシエ,['Mr.Children'],41,0.581,0.853,297226,0.707,1995-1999
+6168,1967,Respect,['Aretha Franklin'],73,0.805,0.558,147600,0.965,1965-1969
+6230,2008,Breakeven,['The Script'],45,0.63,0.698,261426,0.529,2005-2009
+6265,2012,Silhouettes - Original Radio Edit,['Avicii'],10,0.605,0.8,211880,0.836,2010-2014
+6279,2003,ジターバグ,['ELLEGARDEN'],47,0.428,0.984,199826,0.289,2000-2004
+6326,2014,Shut Up and Dance,['WALK THE MOON'],80,0.578,0.866,199080,0.619,2010-2014
+6333,2007,鱗(うろこ),['Motohiro Hata'],0,0.442,0.748,324053,0.493,2005-2009
+6343,2014,Jingle Bell Rock,['The Vamps'],3,0.746,0.552,135206,0.876,2010-2014
+6352,1999,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"['Perry Como', 'The Fontane Sisters', 'Mitchell Ayres & His Orchestra']",17,0.725,0.276,155933,0.717,1995-1999
+6386,1979,Highway to Hell,['AC/DC'],83,0.573,0.913,208400,0.422,1975-1979
+6412,1974,Killer Queen - 2011 Mix,['Queen'],67,0.535,0.65,179600,0.61,1970-1974
+6423,2013,Last Christmas,['Ariana Grande'],53,0.504,0.8,203653,0.789,2010-2014
+6436,2005,Fix You,['Coldplay'],82,0.209,0.418,295533,0.123,2005-2009
+6438,2014,I LOVE YOU,['Chris Hart'],56,0.303,0.452,311453,0.253,2010-2014
+6450,2014,"Happy - From ""Despicable Me 2""",['Pharrell Williams'],30,0.647,0.822,232720,0.962,2010-2014
+6460,2011,I Wish Everyday Could Be Like Christmas,['Bon Jovi'],0,0.333,0.492,267266,0.498,2010-2014
+6483,2008,I'm Yours,['Jason Mraz'],72,0.686,0.457,242186,0.718,2005-2009
+6487,2010,Marry You,['Bruno Mars'],74,0.62,0.832,230120,0.481,2010-2014
+6489,1976,American Girl,['Tom Petty and the Heartbreakers'],75,0.55,0.824,214733,0.777,1975-1979
+6497,2004,Do They Know It's Christmas? - 1984 Version,['Band Aid'],52,0.599,0.642,222533,0.349,2000-2004
+6502,1976,Somebody To Love - 2011 Mix,['Queen'],76,0.406,0.698,296480,0.333,1975-1979
+6534,2008,GIFT,['Mr.Children'],49,0.462,0.726,344800,0.483,2005-2009
+6541,2003,From the Inside,['Linkin Park'],57,0.466,0.965,173933,0.453,2000-2004
+6562,2012,I Knew You Were Trouble.,['Taylor Swift'],67,0.622,0.469,217973,0.679,2010-2014
+6584,1995,Wonderwall - Remastered,['Oasis'],78,0.378,0.896,258773,0.469,1995-1999
+6589,2002,'Till I Collapse,"['Eminem', 'Nate Dogg']",15,0.551,0.851,297893,0.1,2000-2004
+6615,1992,Courage (For Hugh MacLennan),['The Tragically Hip'],47,0.552,0.513,267360,0.326,1990-1994
+6635,2011,Jingle Bells (feat. The Puppini Sisters),"['Michael Bublé', 'The Puppini Sisters']",35,0.702,0.588,159973,0.849,2010-2014
+6652,2011,White Christmas,['Michael Bublé'],29,0.528,0.524,204156,0.613,2010-2014
+6713,1973,Step Into Christmas,['Elton John'],49,0.526,0.925,272393,0.819,1970-1974
+6753,2014,Sugar,['Maroon 5'],50,0.744,0.783,235493,0.885,2010-2014
+6773,2003,Lose Yourself - Soundtrack Version,['Eminem'],0,0.689,0.763,326640,0.0601,2000-2004
+6796,2009,Believe,['ARASHI'],51,0.58,0.968,284285,0.56,2005-2009
+6805,1968,I Say a Little Prayer,['Aretha Franklin'],76,0.59,0.355,216773,0.499,1965-1969
+6850,2010,Seek Bromance - Avicii Vocal Edit,"['Tim Berg', 'Avicii']",58,0.515,0.837,203960,0.52,2010-2014
+6860,2013,One More Sleep,['Leona Lewis'],45,0.639,0.815,239586,0.758,2010-2014
+6869,2013,You Make Me,['Avicii'],9,0.586,0.727,233346,0.496,2010-2014
+6872,1982,Billie Jean,['Michael Jackson'],82,0.92,0.654,293826,0.847,1980-1984
+6904,2000,口笛,['Mr.Children'],44,0.573,0.716,348866,0.443,2000-2004
+6922,2005,Gold Digger,"['Kanye West', 'Jamie Foxx']",15,0.646,0.696,207626,0.625,2005-2009
+6927,2005,桜,['KOBUKURO'],57,0.462,0.414,360453,0.342,2005-2009
+6932,1986,Jingle Bell Rock,['Bobby Helms'],0,0.741,0.34,129893,0.838,1985-1989
+6933,1991,Merry Xmas Everybody,['Slade'],29,0.367,0.623,205466,0.511,1990-1994
+6956,1998,Allumer le feu,['Johnny Hallyday'],0,0.543,0.968,329200,0.379,1995-1999
+7011,2000,感謝カンゲキ雨嵐,['ARASHI'],50,0.612,0.915,287698,0.722,2000-2004
+7027,1990,Deck The Halls,['Nat King Cole'],25,0.638,0.409,69000,0.968,1990-1994
+7038,1999,つつみ込むように・・・,['MISIA'],29,0.62,0.854,348400,0.596,1995-1999
+7043,1999,A・RA・SHI,['ARASHI'],52,0.439,0.953,267069,0.475,1995-1999
+7048,1995,Don't Look Back in Anger - Remastered,['Oasis'],72,0.327,0.938,289560,0.326,1995-1999
+7091,2014,Ni**as In Paris,"['JAY-Z', 'Kanye West']",62,0.757,0.882,219320,0.684,2010-2014
+7145,1984,Summer Of '69,['Bryan Adams'],49,0.505,0.71,216973,0.771,1980-1984
+7178,2014,Bang Bang,"['Jessie J', 'Ariana Grande', 'Nicki Minaj']",14,0.711,0.774,199386,0.715,2010-2014
+7184,2012,ハピネス,['AI'],56,0.642,0.914,255760,0.448,2010-2014
+7203,1987,Get Wild,['TM NETWORK'],52,0.624,0.856,240333,0.836,1985-1989
+7212,2010,How To Make Gravy,['Paul Kelly'],13,0.396,0.735,267306,0.36,2010-2014
+7217,1996,DEPARTURES - RADIO EDIT,['globe'],52,0.614,0.708,315000,0.152,1995-1999
+7221,2014,Time of Our Lives,"['Pitbull', 'Ne-Yo']",78,0.72,0.802,229360,0.723,2010-2014
+7222,2013,3005,['Childish Gambino'],7,0.473,0.461,234213,0.615,2010-2014
+7239,1990,O Tannenbaum,['Nat King Cole'],13,0.242,0.283,182106,0.239,1990-1994
+7243,1980,Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version,['Paul McCartney'],25,0.774,0.511,227653,0.771,1980-1984
+7247,2006,Chasing Cars,['Snow Patrol'],79,0.563,0.592,267933,0.136,2005-2009
+7249,2012,Can't Hold Us - feat. Ray Dalton,['Macklemore & Ryan Lewis'],83,0.641,0.922,258342,0.847,2010-2014
+7261,2013,Cocoa Butter Kisses,"['Chance the Rapper', 'Vic Mensa', 'Twista']",72,0.679,0.645,307187,0.203,2010-2014
+7275,2005,プラネタリウム,['Ai Otsuka'],57,0.375,0.576,307833,0.503,2005-2009
+7296,2004,Everything,['MISIA'],22,0.525,0.527,420733,0.297,2000-2004
+7314,1995,"Hello,Again~昔からある場所~",['My Little Lover'],57,0.546,0.621,310120,0.488,1995-1999
+7319,1989,Free Fallin',['Tom Petty'],79,0.623,0.449,256000,0.572,1985-1989
+7320,1984,Thank God It's Christmas - Non-Album Single,['Queen'],0,0.296,0.421,261626,0.335,1980-1984
+7332,1992,Wheat Kings,['The Tragically Hip'],54,0.538,0.231,259000,0.374,1990-1994
+7338,2009,Pra Você Guardei O Amor,"['Nando Reis', 'Ana Cañas']",70,0.485,0.386,343813,0.354,2005-2009
+7347,2010,春夏秋冬,['Hilcrhyme'],0,0.502,0.783,297640,0.448,2010-2014
+7404,2014,I'm Not The Only One,['Sam Smith'],23,0.453,0.496,239316,0.501,2010-2014
+7443,2008,若者のすべて,['Fujifabric'],55,0.585,0.665,296400,0.321,2005-2009
+7465,2001,Only Holy Story,['STEADY&CO.'],37,0.619,0.679,310466,0.516,2000-2004
+7480,2012,Walking in the Air,['Aled Jones'],4,0.358,0.185,206733,0.0956,2010-2014
+7489,2008,Burnin' Up,['Jonas Brothers'],0,0.665,0.948,175346,0.841,2005-2009
+7490,2012,Payphone,"['Maroon 5', 'Wiz Khalifa']",79,0.743,0.752,231173,0.545,2010-2014
+7494,1967,Ain't No Mountain High Enough,"['Marvin Gaye', 'Tammi Terrell']",22,0.669,0.616,151666,0.818,1965-1969
+7501,2006,チェリー,['SPITZ'],55,0.652,0.806,261333,0.732,2005-2009
+7511,2011,Holly Jolly Christmas,['Michael Bublé'],43,0.647,0.465,119786,0.699,2010-2014
+7576,2011,祈り花,['HIRAIDAI'],0,0.536,0.719,263480,0.563,2010-2014
+7596,2001,小さな恋のうた,['MONGOL800'],69,0.403,0.778,222640,0.628,2000-2004
+7624,1975,Bohemian Rhapsody - 2011 Mix,['Queen'],84,0.414,0.404,354320,0.224,1975-1979
+7666,1999,終わりなき旅,['Mr.Children'],50,0.389,0.568,424360,0.166,1995-1999
+7675,2008,Flavor Of Life,['Hikaru Utada'],53,0.587,0.87,293746,0.503,2005-2009
+7687,2005,Jupiter,['Ayaka Hirahara'],53,0.333,0.577,361000,0.366,2005-2009
+7710,2010,Oh Santa!,['Mariah Carey'],36,0.658,0.916,211000,0.522,2010-2014
+7717,2014,Wet Dreamz,['J. Cole'],79,0.504,0.705,239320,0.584,2010-2014
+7719,2014,Riptide,['Vance Joy'],78,0.484,0.731,204280,0.51,2010-2014
+7731,2004,Mr. Brightside,['The Killers'],79,0.352,0.928,222106,0.239,2000-2004
+7737,2013,Winter Wonderland,['Leona Lewis'],33,0.404,0.84,144133,0.682,2010-2014
+7739,2012,Kataomoi,['miwa'],37,0.47,0.507,348666,0.396,2010-2014
+7754,1993,Creep,['Radiohead'],82,0.515,0.43,238640,0.104,1990-1994
+7760,2007,Umbrella,"['Rihanna', 'JAY-Z']",62,0.581,0.827,275986,0.549,2005-2009
+7783,2008,エソラ,['Mr.Children'],45,0.547,0.899,304213,0.702,2005-2009
+7828,2002,Can't Stop,['Red Hot Chili Peppers'],80,0.618,0.938,269000,0.875,2000-2004
+7885,2011,100万回の「I love you」,['Rake'],58,0.566,0.886,238013,0.536,2010-2014
+7886,1970,Your Song,['Elton John'],78,0.554,0.315,241786,0.325,1970-1974
+7895,2012,Locked out of Heaven,['Bruno Mars'],52,0.728,0.697,233653,0.87,2010-2014
+7921,2012,Vive Le Vent,['Dalida'],20,0.744,0.337,155120,0.802,2010-2014
+7926,2013,Pompeii,['Bastille'],71,0.679,0.715,214147,0.571,2010-2014
+7931,2004,Do They Know It's Christmas? - 1984 Version,['Band Aid'],9,0.599,0.642,222533,0.349,2000-2004
+7953,1960,Dominick the Donkey (The Italian Christmas Donkey) [with Joe Reisman's Orchestra and Chorus],"['Lou Monte', ""Joe Reisman's Orchestra and Chorus""]",0,0.807,0.473,150746,0.963,1960-1964
+7977,2011,The Christmas Song (Chestnuts Roasting On An Open Fire),"['Justin Bieber', 'Usher']",44,0.265,0.436,215160,0.159,2010-2014
+7986,2004,Yeah!,"['Usher', 'Lil Jon', 'Ludacris']",0,0.881,0.788,250373,0.592,2000-2004
+8000,2010,Christmas Lights,['Coldplay'],55,0.312,0.418,242495,0.237,2010-2014
+8011,1982,Thriller,['Michael Jackson'],65,0.773,0.859,357266,0.813,1980-1984
+8013,2011,Cold December Night,['Michael Bublé'],35,0.517,0.702,198266,0.414,2010-2014
+8017,2007,What I've Done,['Linkin Park'],34,0.623,0.93,205613,0.287,2005-2009
+8019,2014,Shake It Off,['Taylor Swift'],79,0.647,0.8,219200,0.942,2010-2014
+8052,1998,I Wish You A Merry Christmas,['Bing Crosby'],8,0.417,0.17,113066,0.574,1995-1999
+8093,1996,名もなき詩,['Mr.Children'],54,0.555,0.852,328173,0.7,1995-1999
+8097,2013,Aoi,['Sakanaction'],49,0.474,0.858,256120,0.625,2010-2014
+8105,2010,Happy Xmas (War Is Over) - Remastered,"['John Lennon', 'The Harlem Community Choir', 'The Plastic Ono Band', 'Yoko Ono']",57,0.328,0.607,213880,0.395,2010-2014
+8111,1998,The Little Drummer Boy,['Bing Crosby'],22,0.643,0.131,177760,0.445,1995-1999
+8117,2012,Call Me Maybe,['Carly Rae Jepsen'],77,0.783,0.58,193400,0.66,2010-2014
+8162,1974,やさしさに包まれたなら,['Yumi Arai'],58,0.501,0.689,191726,0.616,1970-1974
+8195,2010,Troublemaker,['ARASHI'],52,0.629,0.939,241112,0.91,2010-2014
+8199,2002,Marie,['Johnny Hallyday'],18,0.386,0.434,236013,0.213,2000-2004
+8240,1999,Say My Name,"[""Destiny's Child""]",77,0.713,0.678,271333,0.734,1995-1999
+8244,1968,Think,['Aretha Franklin'],68,0.687,0.63,139733,0.926,1965-1969
+8252,2014,Budapest,['George Ezra'],77,0.714,0.451,200720,0.406,2010-2014
+8272,1960,Frosty The Snowman,['Ella Fitzgerald'],44,0.579,0.502,131733,0.836,1960-1964
+8307,2014,桜坂,['Masaharu Fukuyama'],53,0.765,0.447,296680,0.461,2010-2014
+8322,1994,"Hello, my friend",['Yumi Matsutoya'],53,0.658,0.499,273989,0.533,1990-1994
+8335,2007,Love so Sweet,['ARASHI'],57,0.584,0.849,289845,0.707,2005-2009
+8338,1994,Tomorrow never knows,['Mr.Children'],58,0.638,0.484,308293,0.405,1990-1994
+8380,2011,キミシダイ列車,['ONE OK ROCK'],57,0.452,0.909,254746,0.849,2010-2014
+8433,1991,Rockin' Around the Christmas Tree,['Brenda Lee'],39,0.682,0.641,126146,0.826,1990-1994
+8442,1991,Smells Like Teen Spirit,['Nirvana'],75,0.502,0.912,301920,0.72,1990-1994
+8465,1973,Step Into Christmas,['Elton John'],2,0.532,0.926,272393,0.814,1970-1974
+8506,2014,Jingle Bell Rock,['The Vamps'],26,0.717,0.575,135206,0.883,2010-2014
+8527,2007,愛をこめて花束を,['Superfly'],67,0.37,0.8,295600,0.451,2005-2009
+8547,2010,果てない空,['ARASHI'],51,0.576,0.827,265278,0.655,2010-2014
+8555,2006,ロビンソン,['SPITZ'],55,0.636,0.81,261053,0.622,2005-2009
+8556,1975,I Believe in Father Christmas,['Greg Lake'],33,0.39,0.491,212106,0.445,1975-1979
+8594,2007,Missing,['ELLEGARDEN'],20,0.408,0.986,207680,0.253,2005-2009
+8606,2004,瞳をとじて,['Ken Hirai'],59,0.448,0.595,343240,0.33,2000-2004
+8612,1991,Come and Get Your Love - Single Version,['Redbone'],32,0.731,0.804,205933,0.957,1990-1994
+8674,2012,Good Time,"['Owl City', 'Carly Rae Jepsen']",11,0.554,0.878,205933,0.682,2010-2014
+8723,2009,みんな空の下,['ayaka'],55,0.514,0.58,296213,0.475,2005-2009
+8763,2003,One Wish (For Christmas),['Whitney Houston'],1,0.315,0.471,252240,0.126,2000-2004
+8794,1967,What Christmas Means To Me,['Stevie Wonder'],5,0.478,0.542,147226,0.821,1965-1969
+8801,1991,Rockin' Around The Christmas Tree - Single Version,['Brenda Lee'],8,0.691,0.402,125826,0.844,1990-1994
+8803,2008,Love Story,['Taylor Swift'],69,0.618,0.741,235266,0.296,2005-2009
+8827,1996,Superstition - Single Version,['Stevie Wonder'],0,0.65,0.658,239120,0.883,1995-1999
+8850,2004,奏(かなで),['Sukima Switch'],68,0.519,0.666,328626,0.461,2000-2004
+8891,2010,Joy To The World,['Lionel Richie'],0,0.538,0.513,159506,0.312,2010-2014
+8916,2011,Shake up Christmas 2011 (Official Coca-Cola Christmas Song),['Natasha Bedingfield'],36,0.614,0.754,226586,0.685,2010-2014
+8930,2000,My Only Wish (This Year),['Britney Spears'],16,0.665,0.844,255733,0.665,2000-2004
+8940,2011,祈り花,['HIRAIDAI'],60,0.413,0.706,263480,0.58,2010-2014
+8942,2010,"Let It Snow, Let It Snow, Let It Snow","['Kurt Nilsen', 'The Norwegian Radio Orchestra']",25,0.404,0.475,126200,0.655,2010-2014
+8949,2006,恋におちたら,['Crystal Kay'],55,0.574,0.869,268786,0.598,2005-2009
+8958,1988,Christmas In Hollis,['Run–D.M.C.'],43,0.819,0.702,178613,0.573,1985-1989
+8975,2013,Royals,['Lorde'],80,0.674,0.428,190185,0.337,2010-2014
+8979,1980,You Shook Me All Night Long,['AC/DC'],79,0.532,0.767,210173,0.755,1980-1984
+9029,2014,Working Class Man,['Jimmy Barnes'],11,0.379,0.944,251093,0.389,2010-2014
+9074,2012,ワイルド アット ハート,['ARASHI'],52,0.632,0.925,247295,0.71,2010-2014
+9089,1984,Thank God It's Christmas - 2011 Remaster,['Queen'],42,0.304,0.42,261626,0.328,1980-1984
+9105,2014,Movimento da sanfoninha - Ao vivo,['Anitta'],61,0.76,0.999,176608,0.0807,2010-2014
+9110,2013,ないものねだり,['KANA-BOON'],62,0.471,0.77,262693,0.529,2010-2014
+9117,1945,Mele Kalikimaka (Merry Christmas),"['Bing Crosby', 'The Andrews Sisters']",47,0.5,0.224,175333,0.62,1945-1949
+9129,1999,First Love,['Hikaru Utada'],61,0.438,0.434,257293,0.195,1995-1999
+9131,2004,メリクリ,['BoA'],47,0.362,0.532,332433,0.195,2000-2004
+9135,2004,さくらんぼ,['Ai Otsuka'],53,0.516,0.852,233800,0.707,2000-2004
+9137,1994,Stay Another Day,['East 17'],2,0.515,0.452,267480,0.456,1990-1994
+9162,2013,All Me,"['Drake', '2 Chainz', 'Big Sean']",8,0.67,0.515,270866,0.422,2010-2014
+9163,1994,Live Forever,['Oasis'],57,0.335,0.776,276866,0.219,1990-1994
+9166,1957,Here Comes Santa Claus (Right Down Santa Claus Lane),['Elvis Presley'],44,0.573,0.235,115826,0.834,1955-1959
+9191,1986,Laura,['Johnny Hallyday'],0,0.767,0.56,284533,0.75,1985-1989
+9192,2014,Have Yourself A Merry Little Christmas,['Sam Smith'],8,0.426,0.177,170964,0.317,2010-2014
+9193,2002,The Scientist,['Coldplay'],84,0.56,0.442,309600,0.212,2000-2004
+9224,1959,Rudolph The Red-Nosed Reindeer,['Dean Martin'],46,0.478,0.201,135760,0.857,1955-1959
+9271,1998,Natsuiro,['Yuzu'],23,0.588,0.89,202933,0.79,1995-1999
+9284,2001,Wait & See ~リスク~,['Hikaru Utada'],0,0.638,0.899,288733,0.716,2000-2004
+9301,2013,R U Mine?,['Arctic Monkeys'],58,0.288,0.758,201726,0.619,2010-2014
+9326,2005,Red Hot,['ELLEGARDEN'],41,0.476,0.982,173746,0.285,2005-2009
+9391,1977,The Chain - 2004 Remaster,['Fleetwood Mac'],64,0.522,0.755,269813,0.637,1975-1979
+9410,2010,365日,['Mr.Children'],54,0.4,0.494,336946,0.194,2010-2014
+9437,1996,Ahead By A Century,['The Tragically Hip'],54,0.742,0.567,223133,0.359,1995-1999
+9447,2014,Beautiful,['HIRAIDAI'],55,0.548,0.589,232773,0.413,2010-2014
+9452,1987,Driving Home for Christmas - 2019 Remaster,['Chris Rea'],47,0.513,0.583,241626,0.866,1985-1989
+9467,1999,Pony,['Ginuwine'],73,0.749,0.605,251733,0.966,1995-1999
+9483,2014,Somewhere Only We Know,['Lily Allen'],64,0.313,0.286,208504,0.287,2010-2014
+9486,1957,Jingle Bell Rock,['Bobby Helms'],38,0.754,0.424,130973,0.806,1955-1959
+9509,1975,Bohemian Rhapsody - Remastered 2011,['Queen'],27,0.414,0.404,354320,0.224,1975-1979
+9512,2010,The Lazy Song,['Bruno Mars'],74,0.738,0.804,190213,0.949,2010-2014
+9518,1998,Bobcaygeon,['The Tragically Hip'],57,0.391,0.755,295357,0.42,1995-1999
+9522,2011,I'll Be Home for Christmas,['Michael Bublé'],39,0.282,0.101,264826,0.141,2010-2014
+9528,2013,小さな恋のうた,['MONGOL800'],24,0.403,0.87,222520,0.549,2010-2014
+9545,1993,ロマンスの神様,['Kohmi Hirose'],55,0.667,0.802,269283,0.556,1990-1994
+9591,2014,Real Love,['Tom Odell'],57,0.363,0.205,141240,0.18,2010-2014
+9609,2014,Bleib in der Schule,['Trailerpark'],4,0.629,0.822,264893,0.571,2010-2014
+9663,2011,Flame Trees - 2011 Remastered,['Cold Chisel'],62,0.674,0.661,264373,0.628,2010-2014
+9707,1994,恋しさと せつなさと 心強さと,['篠原涼子 with t.komuro'],51,0.59,0.855,262426,0.64,1990-1994
+9718,1995,Gangsta's Paradise,"['Coolio', 'L.V.']",81,0.647,0.514,240693,0.387,1995-1999
+9720,2013,Santa Baby,"['Ariana Grande', 'Liz Gillies']",51,0.748,0.778,170933,0.777,2010-2014
+9730,1975,A Spaceman Came Travelling,['Chris de Burgh'],0,0.294,0.217,311573,0.0769,1975-1979
+9759,1987,Have Yourself A Merry Little Christmas,['Pretenders'],0,0.337,0.143,267800,0.0722,1985-1989
+9777,2006,NAO,['HY'],56,0.561,0.422,366773,0.255,2005-2009
+9813,2011,Pieces of a Dream,['CHEMISTRY'],36,0.733,0.848,299813,0.716,2010-2014
+9817,1999,First Love,['Hikaru Utada'],1,0.452,0.437,257293,0.19,1995-1999
+9831,2005,何度でも,['DREAMS COME TRUE'],60,0.551,0.768,222760,0.35,2005-2009
+9851,2012,Baby It's Cold Outside,"['John Travolta', 'Olivia Newton-John']",1,0.589,0.393,199880,0.458,2010-2014
+9973,2001,Wonderful Dream (Holidays Are Coming) - Radio Version,['Melanie Thornton'],45,0.578,0.676,231933,0.524,2000-2004
+9997,2014,Santa Tell Me,['Ariana Grande'],10,0.464,0.63,204093,0.527,2010-2014
+10016,1990,Christmas Wrapping,['The Waitresses'],38,0.73,0.548,320800,0.813,1990-1994
+10038,1978,勝手にシンドバッド,['サザンオールスターズ'],39,0.536,0.87,238640,0.853,1975-1979
+10061,1997,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,"['The Notorious B.I.G.', 'Mase', 'Diddy']",73,0.845,0.884,257399,0.904,1995-1999
+10090,2003,AM11:00,['HY'],57,0.601,0.688,319160,0.252,2000-2004
+10106,2010,What You Know,['Two Door Cinema Club'],9,0.556,0.763,191400,0.814,2010-2014
+10161,2001,Boys & Girls,['Ayumi Hamasaki'],52,0.56,0.985,233333,0.393,2000-2004
+10178,1986,Careless Whisper,['George Michael'],63,0.583,0.545,302600,0.8,1985-1989
+10224,2003,Breaking the Habit,['Linkin Park'],65,0.579,0.849,196906,0.581,2000-2004
+10252,2007,Space Sonic,['ELLEGARDEN'],14,0.371,0.931,208546,0.469,2005-2009
+10275,2003,Where Is The Love?,['Black Eyed Peas'],19,0.835,0.687,272533,0.828,2000-2004
+10288,2005,全力少年,['Sukima Switch'],62,0.639,0.79,272746,0.733,2005-2009
+10294,2011,Pumped Up Kicks,['Foster The People'],84,0.733,0.71,239600,0.965,2010-2014
+10303,2007,Love so sweet,['ARASHI'],5,0.584,0.849,289845,0.707,2005-2009
+10304,2002,白い恋人達,['Keisuke Kuwata'],49,0.417,0.613,280700,0.365,2000-2004
+10311,2014,Winter Wonderland,"['Tony Bennett', 'Lady Gaga']",37,0.604,0.497,149306,0.72,2010-2014
+10323,2003,Crazy In Love (feat. Jay-Z),"['Beyoncé', 'JAY-Z']",27,0.664,0.758,235933,0.701,2000-2004
+10329,1996,White Christmas,"['The Drifters', 'Clyde McPhatter', 'Bill Pinkney']",29,0.61,0.318,168360,0.453,1995-1999
+10339,1970,I Saw Mommy Kissing Santa Claus,['The Jackson 5'],9,0.574,0.603,181200,0.653,1970-1974
+10342,2014,Do They Know It's Christmas? - 2014,['Band Aid 30'],40,0.626,0.541,228916,0.255,2010-2014
+10362,2006,The Best Side Of Life,['Sarah Connor'],35,0.631,0.634,229333,0.554,2005-2009
+10380,2007,Shadow of the Day,['Linkin Park'],10,0.534,0.393,290360,0.0641,2005-2009
+10395,1992,Kessenwa Kinyoubi,['DREAMS COME TRUE'],31,0.728,0.661,283506,0.888,1990-1994
+10423,1969,I Want You Back,['The Jackson 5'],76,0.469,0.538,176333,0.886,1965-1969
+10429,1999,It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"['Perry Como', 'The Fontane Sisters', 'Mitchell Ayres & His Orchestra']",51,0.725,0.276,155933,0.717,1995-1999
+10436,1976,Somebody To Love - 2011 Mix,['Queen'],69,0.497,0.693,296493,0.358,1975-1979
+10463,2011,花束,['back number'],63,0.519,0.713,286053,0.505,2010-2014
+10475,2000,The Real Slim Shady,['Eminem'],80,0.949,0.661,284200,0.76,2000-2004
+10499,2008,Christmas Time (Don't Let the Bells End),['The Darkness'],22,0.291,0.921,210413,0.373,2005-2009
+10507,1975,A Spaceman Came Travelling,['Chris de Burgh'],41,0.339,0.218,311573,0.0691,1975-1979
+10517,1945,I'll Be Home For Christmas,['Bing Crosby'],41,0.223,0.146,175173,0.176,1945-1949
+10532,2003,One Wish (For Christmas),['Whitney Houston'],30,0.501,0.474,252240,0.134,2000-2004
+10542,2014,Chandelier,['Sia'],79,0.399,0.787,216120,0.572,2010-2014
+10619,2013,Rap God,['Eminem'],10,0.712,0.838,363521,0.607,2010-2014
+10657,2001,Wait & See ~リスク~,['Hikaru Utada'],0,0.638,0.912,288733,0.68,2000-2004
+10673,1999,I Want It That Way,['Backstreet Boys'],80,0.689,0.694,213306,0.482,1995-1999
+10693,2007,しるし,['Mr.Children'],52,0.435,0.489,431613,0.299,2005-2009
+10721,2012,My Only Wish (This Year),['Britney Spears'],24,0.664,0.741,255120,0.669,2010-2014
+10750,1999,丸ノ内サディスティック,['Sheena Ringo'],63,0.425,0.916,235866,0.659,1995-1999
+10751,2003,夏の思い出,['Ketsumeishi'],48,0.686,0.909,391733,0.818,2000-2004
+10768,2014,Georgia,['Vance Joy'],65,0.388,0.66,230506,0.401,2010-2014
+10794,2010,Love The Way You Lie,"['Eminem', 'Rihanna']",16,0.746,0.922,263373,0.638,2010-2014
+10796,2003,Seven Nation Army,['The White Stripes'],59,0.753,0.457,231800,0.297,2000-2004
+10818,2014,Vou Desafiar Você,['Mc Sapao'],53,0.644,0.898,239740,0.541,2010-2014
+10828,1997,Hypnotize - 2014 Remaster,['The Notorious B.I.G.'],76,0.901,0.697,229826,0.67,1995-1999
+10851,2013,Hikarie,['miwa'],45,0.563,0.908,292306,0.343,2010-2014
+10862,2014,Maps,['Maroon 5'],76,0.742,0.713,189960,0.879,2010-2014
+10876,1964,Rockin' Around The Christmas Tree,['Brenda Lee'],57,0.589,0.472,126266,0.898,1960-1964
+10899,2012,Dreams and Nightmares,['Meek Mill'],72,0.631,0.774,230693,0.44,2010-2014
+10915,2013,Levels - Radio Edit,['Avicii'],44,0.579,0.887,201920,0.472,2010-2014
+10923,2000,Have Yourself a Merry Little Christmas,['Christina Aguilera'],43,0.244,0.274,243133,0.164,2000-2004
+10973,2010,Universal Child,['Annie Lennox'],0,0.506,0.174,254320,0.137,2010-2014
+10975,1987,Twelve Days Of Christmas - Single Version,"['Bing Crosby', 'The Andrews Sisters']",3,0.629,0.292,204040,0.83,1985-1989
+11001,1991,どんなときも。,['Noriyuki Makihara'],56,0.691,0.809,304506,0.915,1990-1994
+11012,1986,Je te promets,['Johnny Hallyday'],9,0.445,0.206,277466,0.123,1985-1989
+11047,2012,Good Time,"['Owl City', 'Carly Rae Jepsen']",74,0.56,0.872,205933,0.681,2010-2014
+11065,2013,The Beginning,['ONE OK ROCK'],62,0.36,0.983,292733,0.279,2010-2014
+11070,2011,All I Want for Christmas Is New Year's Day,['Hurts'],35,0.553,0.669,274200,0.103,2010-2014
+11076,2014,Dancin (feat. Luvli) - Krono Remix,"['Aaron Smith', 'Krono', 'Luvli']",83,0.72,0.741,198053,0.357,2010-2014
+11092,2014,Style,['Taylor Swift'],70,0.588,0.791,231000,0.487,2010-2014
+11120,2005,Sign,['Mr.Children'],56,0.601,0.51,321800,0.382,2005-2009
+11127,1991,The Show Must Go On - 2011 Mix,['Queen'],71,0.426,0.687,277826,0.189,1990-1994
+11134,2011,Titanium (feat. Sia),['David Guetta'],66,0.604,0.787,245040,0.301,2010-2014
+11158,2004,スターフィッシュ,['ELLEGARDEN'],47,0.377,0.933,220720,0.433,2000-2004
+11166,2002,Without Me,['Eminem'],83,0.908,0.669,290320,0.662,2000-2004
+11184,2007,Driving Home for Christmas,['Chris Rea'],49,0.497,0.661,240213,0.894,2005-2009
+11200,1987,Rockin' Around The Christmas Tree,['Mel & Kim'],39,0.578,0.589,223951,0.657,1985-1989
+11218,2010,fanfare,['Mr.Children'],42,0.448,0.876,375533,0.383,2010-2014
+11225,1982,Africa,['TOTO'],84,0.671,0.373,295893,0.732,1980-1984
+11234,2008,American Boy,"['Estelle', 'Kanye West']",79,0.727,0.729,284733,0.512,2005-2009
+11279,2014,Song for…,['HY'],40,0.539,0.327,292040,0.225,2010-2014
+11327,1987,Everywhere - Remastered,['Fleetwood Mac'],17,0.73,0.487,226653,0.731,1985-1989
+11331,2012,Christmas (Baby Please Come Home),['Darlene Love'],13,0.343,0.76,166453,0.356,2010-2014
+11340,2007,Happiness,['ARASHI'],56,0.591,0.915,258250,0.712,2005-2009
+11382,2004,American Idiot,['Green Day'],79,0.38,0.988,176346,0.769,2000-2004
+11394,2011,I Wish Everyday Could Be Like Christmas,['Bon Jovi'],0,0.335,0.513,267266,0.457,2010-2014
+11404,2005,How to Save a Life,['The Fray'],81,0.64,0.743,262533,0.361,2005-2009
+11405,2011,Mistletoe,['Justin Bieber'],8,0.666,0.543,182946,0.881,2010-2014
+11432,1994,Zombie,['The Cranberries'],20,0.309,0.649,306364,0.313,1990-1994
+11461,1997,What Christmas Means To Me,['Hanson'],0,0.53,0.883,223133,0.826,1995-1999
+11484,2006,Naive,['The Kooks'],74,0.391,0.808,203506,0.737,2005-2009
+11495,1999,Still D.R.E.,"['Dr. Dre', 'Snoop Dogg']",17,0.814,0.779,268004,0.544,1995-1999
+11511,2011,White Christmas (with Shania Twain),"['Michael Bublé', 'Shania Twain']",38,0.628,0.484,216626,0.642,2010-2014
+11515,2013,みかんハート,['C&K'],58,0.561,0.358,336840,0.204,2010-2014
+11538,2002,天体観測,['BUMP OF CHICKEN'],61,0.366,0.949,263600,0.467,2000-2004
+11541,2013,Dear Boy,['Avicii'],5,0.686,0.581,479333,0.253,2010-2014
+11551,1972,"Rocket Man (I Think It's Going To Be A Long, Long Time)",['Elton John'],82,0.601,0.532,281613,0.341,1970-1974
+11554,2008,"奏(かなで) - ARENA TOUR '07 ""W-ARENA""",['Sukima Switch'],0,0.435,0.771,382666,0.311,2005-2009
+11567,2010,Best I Ever Had,['Drake'],73,0.431,0.894,258760,0.604,2010-2014
+11569,2011,La terre est ronde,['Orelsan'],59,0.634,0.675,219865,0.633,2010-2014
+11571,2012,When I Was Your Man,['Bruno Mars'],55,0.601,0.271,213826,0.411,2010-2014
+11596,2007,クリスマスキャロルの頃には,['Junichi Inagaki'],34,0.624,0.882,269626,0.75,2005-2009
+11624,1974,Killer Queen - 2011 Mix,['Queen'],72,0.535,0.651,179600,0.612,1970-1974
+11632,2009,Must Be Santa,['Bob Dylan'],35,0.602,0.988,168546,0.728,2005-2009
+11643,1987,To Her Door,"['Paul Kelly', 'The Messengers']",64,0.51,0.793,196026,0.543,1985-1989
+11657,1970,I'll Be Home For Christmas - Single Version,['Bing Crosby'],0,0.199,0.205,174614,0.224,1970-1974
+11677,2012,I Could Be The One (Avicii Vs. Nicky Romero) - Nicktim / Radio Edit,"['Avicii', 'Nicky Romero']",9,0.509,0.79,208316,0.638,2010-2014
+11688,2013,フィルム,['Gen Hoshino'],49,0.662,0.49,289697,0.532,2010-2014
+11699,1995,Champagne Supernova - Remastered,['Oasis'],66,0.294,0.825,451320,0.122,1995-1999
+11717,1977,Dreams - 2004 Remaster,['Fleetwood Mac'],81,0.828,0.492,257800,0.789,1975-1979
+11767,2000,TSUNAMI,['サザンオールスターズ'],52,0.496,0.669,312000,0.556,2000-2004
+11776,1987,Santa Baby,['Madonna'],28,0.618,0.32,154906,0.602,1985-1989
+11814,1998,Automatic,['Hikaru Utada'],1,0.708,0.881,312066,0.686,1995-1999
+11855,1993,Schrei nach Liebe,['Die Ärzte'],65,0.358,0.796,252600,0.409,1990-1994
+11878,2011,It's Beginning to Look a Lot like Christmas,['Michael Bublé'],43,0.339,0.214,206639,0.363,2010-2014
+11910,1995,Love Love Love,['DREAMS COME TRUE'],37,0.447,0.383,204493,0.276,1995-1999
+11918,2011,Re:make,['ONE OK ROCK'],55,0.386,0.988,204493,0.443,2010-2014
+11919,1972,Rockin' Robin,['Michael Jackson'],53,0.622,0.721,154840,0.968,1970-1974
+11921,1998,"Merry Christmas, Happy Holidays",['*NSYNC'],30,0.642,0.939,255306,0.756,1995-1999
+11960,2003,Faint,['Linkin Park'],69,0.554,0.978,162600,0.594,2000-2004
+11966,1969,Here Comes The Sun - Remastered,['The Beatles'],30,0.557,0.54,185733,0.394,1965-1969
+11967,1971,Eagle Rock - 2011 Remaster,['Daddy Cool'],61,0.618,0.776,250066,0.674,1970-1974
+11970,1999,No Scrubs,['TLC'],80,0.743,0.675,214400,0.59,1995-1999
+11973,2009,Party In The U.S.A.,['Miley Cyrus'],79,0.652,0.698,202066,0.47,2005-2009
+11991,2014,NAO,['HY'],34,0.569,0.385,369506,0.239,2010-2014
+12029,2000,This Christmas,['Christina Aguilera'],42,0.575,0.744,241506,0.701,2000-2004
+12069,2002,'Till I Collapse,"['Eminem', 'Nate Dogg']",84,0.548,0.847,297786,0.1,2000-2004
+12071,1970,Santa Claus Is Coming To Town,['The Jackson 5'],41,0.696,0.564,148160,0.932,1970-1974
+12076,2007,Please Come Home For Christmas - Bonus Track,['Eagles'],0,0.609,0.357,180413,0.468,2005-2009
+12083,2000,Apenas Mais uma de Amor,['Lulu Santos'],68,0.39,0.355,218266,0.262,2000-2004
+12139,2014,Talk Is Cheap,['Chet Faker'],21,0.656,0.61,218067,0.52,2010-2014
+12144,2012,We Are Never Ever Getting Back Together,['Taylor Swift'],65,0.628,0.676,191880,0.75,2010-2014
+12161,2012,恋,['back number'],51,0.446,0.72,253306,0.524,2010-2014
+12179,2002,Stop the Cavalry - Radio Edit,['Jona Lewie'],20,0.697,0.385,177523,0.736,2000-2004
+12181,2008,HANABI,['Mr.Children'],68,0.638,0.766,342773,0.595,2005-2009
+12184,2014,High - Original Mix,"['Peking Duk', 'Nicole Millar']",8,0.524,0.798,228000,0.357,2010-2014
+12189,2004,花,['ORANGE RANGE'],29,0.416,0.791,253720,0.524,2000-2004
+12191,1986,L'envie,['Johnny Hallyday'],8,0.433,0.675,232426,0.587,1985-1989
+12198,2006,きっと大丈夫,['ARASHI'],50,0.607,0.951,291633,0.843,2005-2009
+12244,2008,366日,['HY'],68,0.378,0.426,352506,0.184,2005-2009
+12262,1964,Little Saint Nick - 1991 Remix,"['The Beach Boys', 'Mark Linett', 'Sweet', 'Larry Walsh']",48,0.602,0.553,118840,0.971,1960-1964
+12274,1976,Requiem pour un fou,['Johnny Hallyday'],18,0.379,0.484,288106,0.383,1975-1979
+12282,2012,It's Christmas Time Again,['Backstreet Boys'],37,0.53,0.706,203028,0.79,2010-2014
+12297,1985,Take on Me,['a-ha'],84,0.573,0.902,225280,0.876,1985-1989
+12298,2009,Party In The U.S.A.,['Miley Cyrus'],74,0.652,0.698,202066,0.47,2005-2009
+12308,2011,Fade Into Darkness - Vocal Radio Mix,['Avicii'],7,0.556,0.885,198133,0.771,2010-2014
+12342,2014,Stay With Me,['Sam Smith'],20,0.479,0.419,172723,0.186,2010-2014
+12386,2006,Christmas In My Heart,['Sarah Connor'],31,0.648,0.517,288440,0.184,2005-2009
+12400,2012,Face Down,['ARASHI'],50,0.733,0.943,235474,0.707,2010-2014
+12468,2011,Blue Christmas,['Michael Bublé'],28,0.341,0.64,221706,0.351,2010-2014
+12504,2011,Mistletoe,['Justin Bieber'],63,0.658,0.56,182946,0.854,2010-2014
+12510,2010,"Hey, Soul Sister",['Train'],83,0.673,0.886,216773,0.795,2010-2014
+12537,2012,Treasure,['Bruno Mars'],45,0.874,0.687,178560,0.92,2010-2014
+12540,1975,Love Of My Life - Remastered 2011,['Queen'],75,0.329,0.179,217386,0.255,1975-1979
+12551,2001,"Medley: Caroling, Caroling / The First Noel / Hark! The Herald Angels Sing / Silent Night",['Perry Como'],39,0.148,0.134,290760,0.107,2000-2004
+12581,1945,It's Beginning To Look Like Christmas,['Bing Crosby'],45,0.473,0.212,166000,0.576,1945-1949
+12594,2012,BURN IT DOWN,['Linkin Park'],74,0.585,0.972,230253,0.585,2010-2014
+12595,1989,Runnin' Down A Dream,['Tom Petty'],44,0.453,0.871,262373,0.748,1985-1989
+12663,1960,Have Yourself A Merry Little Christmas,['Ella Fitzgerald'],36,0.611,0.247,175840,0.484,1960-1964
+12668,2013,V. 3005,['Childish Gambino'],5,0.472,0.457,234215,0.643,2010-2014
+12684,2007,蕾(つぼみ),['KOBUKURO'],57,0.355,0.441,363853,0.283,2005-2009
+12689,2013,Dynamit,"['Kollegah', 'Farid Bang']",0,0.421,0.928,162213,0.612,2010-2014
+12691,2007,Year 3000,['Jonas Brothers'],0,0.657,0.854,201346,0.743,2005-2009
+12743,2001,Can You Keep A Secret?,['Hikaru Utada'],0,0.719,0.896,308466,0.683,2000-2004
+12756,2002,Marie - Master Mix,['Johnny Hallyday'],2,0.389,0.434,235500,0.213,2000-2004
+12762,2012,I Will Wait,['Mumford & Sons'],13,0.477,0.776,276720,0.429,2010-2014
+12781,2007,鱗(うろこ),['Motohiro Hata'],61,0.442,0.748,324053,0.493,2005-2009
+12783,1963,It's the Most Wonderful Time of the Year,['Andy Williams'],55,0.24,0.598,151933,0.776,1960-1964
+12797,2010,Wherever you are,['ONE OK ROCK'],68,0.379,0.69,295600,0.288,2010-2014
+12800,1984,Last Christmas,['Wham!'],62,0.735,0.478,262960,0.947,1980-1984
+12804,2013,たしかなこと,['ayaka'],44,0.567,0.598,334440,0.507,2010-2014
+12816,2000,夏祭り,['Whiteberry'],52,0.513,0.775,220706,0.65,2000-2004
+12826,2013,Snow In California,['Ariana Grande'],1,0.647,0.544,206373,0.472,2010-2014
+12865,1994,What Child Is This?/The Holly And The Ivy,['Bing Crosby'],0,0.342,0.18,201333,0.215,1990-1994
+12874,2003,Yuki No Hana,['Mika Nakashima'],45,0.498,0.292,338853,0.149,2000-2004
+12882,2002,トモダチ,['Ketsumeishi'],51,0.699,0.638,370026,0.545,2000-2004
+12886,2005,POP STAR,['Ken Hirai'],60,0.645,0.99,283346,0.841,2005-2009
+12921,2004,Christmas Time (Don't Let the Bells End),['The Darkness'],36,0.411,0.918,219493,0.432,2000-2004
+12938,2010,Just the Way You Are,['Bruno Mars'],80,0.637,0.843,220733,0.434,2010-2014
+12984,2011,Kimino Shiranai Monogatari,['supercell'],48,0.432,0.907,339573,0.544,2010-2014
+12985,2005,夏色,['Yuzu'],9,0.557,0.93,201933,0.794,2005-2009
+13131,1994,Have Yourself A Merry Little Christmas,['Judy Garland'],33,0.182,0.14,162200,0.0941,1990-1994
+13134,1969,I Want You Back,['The Jackson 5'],15,0.639,0.548,176333,0.887,1965-1969
+13144,2014,No Role Modelz,['J. Cole'],82,0.696,0.521,292986,0.458,2010-2014
+13150,2006,Christmas Time,['Backstreet Boys'],2,0.558,0.566,251266,0.495,2005-2009
+13166,1998,Do You Hear What I Hear?,['Bing Crosby'],16,0.489,0.328,165960,0.405,1995-1999
+13176,2008,そばにいるね,"['Thelma Aoyama', 'SoulJa']",14,0.668,0.732,299933,0.825,2005-2009
+13177,1962,Silent Night,['Bing Crosby'],7,0.18,0.137,156893,0.211,1960-1964
+13215,2010,Monster,['ARASHI'],3,0.656,0.939,267514,0.744,2010-2014
+13217,1986,Livin' On A Prayer,['Bon Jovi'],23,0.534,0.887,249293,0.72,1985-1989
+13237,1990,Lonesome Train,['Stan Kenton'],15,0.534,0.211,168040,0.193,1990-1994
+13284,1998,Automatic,['Hikaru Utada'],51,0.716,0.879,312066,0.728,1995-1999
+13298,1994,Stay Another Day,['East 17'],59,0.524,0.489,267133,0.443,1990-1994
+13304,1980,Another One Bites The Dust - Remastered 2011,['Queen'],82,0.933,0.528,214653,0.754,1980-1984
+13348,1978,Don't Stop Me Now - 2011 Mix,['Queen'],83,0.559,0.868,209413,0.609,1975-1979
+13379,1996,No Diggity,"['Blackstreet', 'Dr. Dre', 'Queen Pen']",77,0.868,0.646,304600,0.67,1995-1999
+13385,2005,Wish,['ARASHI'],51,0.659,0.764,267077,0.709,2005-2009
+13410,1968,Winter Wonderland,['Tony Bennett'],46,0.452,0.366,133866,0.629,1965-1969
+13413,1987,Christmas (Baby Please Come Home),['U2'],35,0.281,0.802,139760,0.5,1985-1989
+13446,1984,The Power Of Love,['Frankie Goes To Hollywood'],63,0.46,0.162,332506,0.102,1980-1984
+13463,1968,(You Make Me Feel Like) A Natural Woman,['Aretha Franklin'],70,0.65,0.323,166812,0.276,1965-1969
+13476,1983,Sweet Dreams (Are Made of This) - Remastered,['Eurythmics'],81,0.692,0.711,216933,0.875,1980-1984
+13488,2014,Santa Tell Me,['Ariana Grande'],64,0.525,0.621,204093,0.591,2010-2014
+13497,2013,ミュージック,['Sakanaction'],52,0.739,0.641,322986,0.681,2010-2014
+13516,2013,Snow In California,['Ariana Grande'],46,0.631,0.533,206373,0.428,2010-2014
+13529,2009,Sweet Disposition,['The Temper Trap'],65,0.531,0.821,230800,0.34,2005-2009
+13534,1942,Let's Start The New Year Off Right,['Bing Crosby'],0,0.341,0.148,153946,0.416,1940-1944
+13556,1987,In der Weihnachtsbäckerei,['Rolf Zuckowski'],43,0.817,0.451,172906,0.917,1985-1989
+13561,1994,Zombie,['The Cranberries'],80,0.307,0.635,306426,0.305,1990-1994
+13573,2014,Take Me To Church,['Hozier'],12,0.566,0.664,241688,0.437,2010-2014
+13627,2006,さくら - 独唱,['Naotaro Moriyama'],56,0.589,0.181,255160,0.349,2005-2009
+13636,2000,if...,['DA PUMP'],54,0.627,0.903,218800,0.6,2000-2004
+13649,2014,繋いだ手から,['back number'],54,0.394,0.797,282706,0.655,2010-2014
+13697,2012,オレンジ,['GReeeeN'],52,0.491,0.95,226200,0.486,2010-2014
+13711,1998,Winter Wonderland,['Bing Crosby'],16,0.648,0.228,144826,0.503,1995-1999
+13743,2009,Little Christmas Tree,['Michael Jackson'],0,0.48,0.531,217840,0.276,2005-2009
+13756,2013,夜の踊り子,['Sakanaction'],41,0.559,0.78,302920,0.481,2010-2014
+13805,1959,Let It Snow! Let It Snow! Let It Snow!,['Dean Martin'],53,0.451,0.24,117146,0.701,1955-1959
+13826,1983,Every Breath You Take,['The Police'],84,0.82,0.452,253920,0.74,1980-1984
+13846,2009,Deck the Halls,['R.E.M.'],0,0.381,0.307,73706,0.25,2005-2009
+13861,2014,Guts!,['ARASHI'],54,0.615,0.947,294290,0.892,2010-2014
